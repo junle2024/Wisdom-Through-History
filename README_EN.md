@@ -12,7 +12,7 @@ If you find this useful, please like, share, and let more people see it!
 
 - [Categories]
 
-  - [[HistFacts] Article Categories - Simplified Chinese] (./【知史明智】文章分类列表 - zh-cn.md)
+  - [Article Categories - Simplified Chinese] (./【知史明智】文章分类列表 - zh-cn.md)
   - [[HistFacts] Article Categories - Traditional Chinese] (./【知史明智】文章分类列表 - zh-tw.md)
   - [[HistFacts] Article Categories - English] (./【知史明智】文章分类列表 - en.md)
 
