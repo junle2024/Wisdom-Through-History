@@ -10,15 +10,17 @@ If you find this useful, please like, share, and let more people see it!
 
 ## Table of Contents
 
-- [Categories]  
-  [HistFacts] Article Categories - Simplified Chinese (./【知史明智】文章分类列表 - zh-cn.md)  
-  [HistFacts] Article Categories - Traditional Chinese (./【知史明智】文章分类列表 - zh-tw.md)  
-  [HistFacts] Article Categories - English (./【知史明智】文章分类列表 - en.md)
+- [Categories]
 
-- [Tags]  
-  [HistFacts] Article Tags - Simplified Chinese (./【知史明智】文章标签列表 - zh-cn.md)  
-  [HistFacts] Article Tags - Traditional Chinese (./【知史明智】文章标签列表 - zh-tw.md)  
-  [HistFacts] Article Tags - English (./【知史明智】文章标签列表 - en.md)
+  - [[HistFacts] Article Categories - Simplified Chinese] (./【知史明智】文章分类列表 - zh-cn.md)
+  - [[HistFacts] Article Categories - Traditional Chinese] (./【知史明智】文章分类列表 - zh-tw.md)
+  - [[HistFacts] Article Categories - English] (./【知史明智】文章分类列表 - en.md)
+
+- [Tags]
+
+  - [[HistFacts] Article Tags - Simplified Chinese] (./【知史明智】文章标签列表 - zh-cn.md)
+  - [[HistFacts] Article Tags - Traditional Chinese] (./【知史明智】文章标签列表 - zh-tw.md)
+  - [[HistFacts] Article Tags - English] (./【知史明智】文章标签列表 - en.md)
 
 ## Articles
 
