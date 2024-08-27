@@ -388,7 +388,7 @@
 - [解密时刻:毛泽东的忠臣周恩来（完整版）](https://www.histfacts.com/2024/08/revealing_moments_zhou_enlai/)
 
 ## 商业
-- [特朗普第二任期对商业的影响：独家解读](https://www.histfacts.com/2024/07/trump_second_term_mean /)
+- [特朗普第二任期对商业的影响：独家解读](https://www.histfacts.com/2024/07/trump_second_term_mean/)
 
 ## 国共内战
 - [龙应台《大江大海1949》之长春围城](https://www.histfacts.com/2024/08/long_ying_tai_1949_zhi_chang_chun_wei_cheng/)
@@ -423,7 +423,7 @@
 
 ## 探索与反思
 - [【深度好文】如何渡过历史的垃圾时间](https://www.histfacts.com/2024/07/how_to_get_through_historical_wasted_time/)
-- [再看《北京人在纽约》：一部时代镜像下的移民反思](https://www.histfacts.com/2024/07/ reflections_on_immigration/)
+- [再看《北京人在纽约》：一部时代镜像下的移民反思](https://www.histfacts.com/2024/07/reflections_on_immigration/)
 
 ## 文学与历史
 - [历史的底牌：易中天中华史演讲（文字版-上）](https://www.histfacts.com/2024/08/the_hidden_card_of_history_a/)
@@ -503,7 +503,7 @@
 - [鲜为人知的周恩来](https://www.histfacts.com/2024/08/little-known_zhou_enlai_a/)
 - [不为人知的周恩来：政治完人背后的面孔（上集）](https://www.histfacts.com/2024/08/the_untold_story_of_zhou_enlai_a/)
 - [解密时刻:毛泽东的忠臣周恩来（完整版）](https://www.histfacts.com/2024/08/revealing_moments_zhou_enlai/)
-- [特朗普第二任期对商业的影响：独家解读](https://www.histfacts.com/2024/07/trump_second_term_mean /)
+- [特朗普第二任期对商业的影响：独家解读](https://www.histfacts.com/2024/07/trump_second_term_mean/)
 - [美国无家可归现象：统计数据、分析与趋势](https://www.histfacts.com/2024/08/homelessness_in_america/)
 - [为什么这么多人无家可归？](https://www.histfacts.com/2024/08/why_are_so_many_people_homeless/)
 - [美国为什么现在有那么多流浪汉？(知乎高赞)](https://www.histfacts.com/2024/08/why_so_many_homeless_in_america/)
@@ -528,7 +528,7 @@
 - [中国养老金，将于2035年耗尽](https://www.histfacts.com/2024/08/2035_pension_funds_be_depleted/)
 - [【深度好文】如何渡过历史的垃圾时间](https://www.histfacts.com/2024/07/how_to_get_through_historical_wasted_time/)
 - [这世上最难的事，是向一群傻 x 自证清白](https://www.histfacts.com/2024/07/the_hardest_thing_in_this_world/)
-- [再看《北京人在纽约》：一部时代镜像下的移民反思](https://www.histfacts.com/2024/07/ reflections_on_immigration/)
+- [再看《北京人在纽约》：一部时代镜像下的移民反思](https://www.histfacts.com/2024/07/reflections_on_immigration/)
 - [繁华渐逝：腹背受敌的中国经济（读懂，能受益30年）](https://www.histfacts.com/2024/07/the_besieged_chinese_economy/)
 - [记者刘向南：我在两广采访“殡葬官员组织倒卖尸体案”(旧闻阅读)](https://www.histfacts.com/2024/08/funeral_officials_organizing_body_trafficking_case/)
 - [盗卖数千具逝者遗体,如此大案为何多年来未暴露？](https://www.histfacts.com/2024/08/thousands_of_bodies_stolen_and_sold/)

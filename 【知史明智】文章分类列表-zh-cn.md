@@ -65,7 +65,7 @@
 - [华国锋（上集）：领袖为何造反？怀仁堂事变始末](https://www.histfacts.com/2024/07/hua_guo_feng_part_one_leaders_why_revolt/)
 
 ## 商业洞察
-- [特朗普第二任期对商业的影响：独家解读](https://www.histfacts.com/2024/07/trump_second_term_mean /)
+- [特朗普第二任期对商业的影响：独家解读](https://www.histfacts.com/2024/07/trump_second_term_mean/)
 
 ## 好文推荐
 - [沙僧：施主您误会了！我可不是什么好人啊！](https://www.histfacts.com/2024/08/sha_seng_shi_zhu_nin_wu_hui_le/)
@@ -88,7 +88,7 @@
 
 ## 探索与反思
 - [【深度好文】如何渡过历史的垃圾时间](https://www.histfacts.com/2024/07/how_to_get_through_historical_wasted_time/)
-- [再看《北京人在纽约》：一部时代镜像下的移民反思](https://www.histfacts.com/2024/07/ reflections_on_immigration/)
+- [再看《北京人在纽约》：一部时代镜像下的移民反思](https://www.histfacts.com/2024/07/reflections_on_immigration/)
 
 ## 数字时代
 - [关于房屋养老金，还有几个问题没说清](https://www.histfacts.com/2024/08/si_huan_qing_nian_guan_yu_fang_wu_yang_lao_jin/)

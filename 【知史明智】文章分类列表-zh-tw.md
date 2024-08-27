@@ -54,7 +54,7 @@
 - [华国锋（下集）：邓小平是怎麼玩弄權術，扳倒華國鋒的？](https://www.histfacts.com/zh-tw/2024/07/hua_guofeng_part_2_deng_xiaoping_overthrow/)
 
 ## 商业洞察
-- [特朗普第二任期對商業的影響：獨家解讀](https://www.histfacts.com/zh-tw/2024/07/trump_second_term_mean /)
+- [特朗普第二任期對商業的影響：獨家解讀](https://www.histfacts.com/zh-tw/2024/07/trump_second_term_mean/)
 
 ## 好文推薦
 - [《西遊記》裏，最黑的當然不是神話](https://www.histfacts.com/zh-tw/2024/08/wu_kong_ni_zhen_de_chi_guo_ren_me/)

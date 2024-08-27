@@ -380,7 +380,7 @@
 - [不為人知的周恩來：政治完人背後的面孔（上集）](https://www.histfacts.com/zh-tw/2024/08/the_untold_story_of_zhou_enlai_a/)
 
 ## 商业
-- [特朗普第二任期對商業的影響：獨家解讀](https://www.histfacts.com/zh-tw/2024/07/trump_second_term_mean /)
+- [特朗普第二任期對商業的影響：獨家解讀](https://www.histfacts.com/zh-tw/2024/07/trump_second_term_mean/)
 
 ## 國共內戰
 - [龍應臺《大江大海1949》之長春圍城](https://www.histfacts.com/zh-tw/2024/08/long_ying_tai_1949_zhi_chang_chun_wei_cheng/)
@@ -500,7 +500,7 @@
 - [不為人知的周恩來：政治完人背後的面孔（下集）](https://www.histfacts.com/zh-tw/2024/08/the_untold_story_of_zhou_enlai_b/)
 - [解密時刻：毛澤東的忠臣周恩來（完整版）](https://www.histfacts.com/zh-tw/2024/08/revealing_moments_zhou_enlai/)
 - [不為人知的周恩來：政治完人背後的面孔（上集）](https://www.histfacts.com/zh-tw/2024/08/the_untold_story_of_zhou_enlai_a/)
-- [特朗普第二任期對商業的影響：獨家解讀](https://www.histfacts.com/zh-tw/2024/07/trump_second_term_mean /)
+- [特朗普第二任期對商業的影響：獨家解讀](https://www.histfacts.com/zh-tw/2024/07/trump_second_term_mean/)
 - [美國無家可歸現象：統計數據、分析與趨勢](https://www.histfacts.com/zh-tw/2024/08/homelessness_in_america/)
 - [美國為什麼現在有那麼多流浪漢？(知乎高贊)](https://www.histfacts.com/zh-tw/2024/08/why_so_many_homeless_in_america/)
 - [為什麼這麼多人無家可歸？](https://www.histfacts.com/zh-tw/2024/08/why_are_so_many_people_homeless/)

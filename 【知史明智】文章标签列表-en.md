@@ -15,7 +15,7 @@
 - [Shen Kui & Lao Dongyan | Opinions on "Net Certificate and Net ID"](https://www.histfacts.com/en/2024/08/china_internet_certificate_number/)
 
 ## Business
-- [What a second term for Trump would mean for business,in his own words](https://www.histfacts.com/en/2024/07/trump_second_term_mean /)
+- [What a second term for Trump would mean for business,in his own words](https://www.histfacts.com/en/2024/07/trump_second_term_mean/)
 
 ## Chaijing talk
 - [Gao Yaojie:A Lifelong Journey of Upholding Truth](https://www.histfacts.com/en/2024/07/gao_yaojie_a_lifelong_journey_of_upholding_truth/)
@@ -40,7 +40,7 @@
 - [Moment of Revelation:Mao Zedong's Loyal Subject Zhou Enlai (Complete Version)](https://www.histfacts.com/en/2024/08/revealing_moments_zhou_enlai/)
 - [The Untold Story of Zhou Enlai:The Face Behind the Political Paragon (Part 1)](https://www.histfacts.com/en/2024/08/the_untold_story_of_zhou_enlai_a/)
 - [The Untold Story of Zhou Enlai:The Face Behind the Political Paragon (Part 2)](https://www.histfacts.com/en/2024/08/the_untold_story_of_zhou_enlai_b/)
-- [What a second term for Trump would mean for business,in his own words](https://www.histfacts.com/en/2024/07/trump_second_term_mean /)
+- [What a second term for Trump would mean for business,in his own words](https://www.histfacts.com/en/2024/07/trump_second_term_mean/)
 - [Homelessness in America:Statistics, Analysis, and Trends](https://www.histfacts.com/en/2024/08/homelessness_in_america/)
 - [Why Are So Many People Homeless?](https://www.histfacts.com/en/2024/08/why_are_so_many_people_homeless/)
 - [Talk 1:Harvard School Commencement Speech](https://www.histfacts.com/en/2024/07/charles_xi_lectures_01/)
