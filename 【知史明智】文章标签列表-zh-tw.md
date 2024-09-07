@@ -1,8 +1,14 @@
 # 标签列表 - zh-tw
 
 ## 404
+- [沒辦法](https://www.histfacts.com/zh-tw/2024/09/mai_xing_hua_mei_ban_fa/)
+- [俄烏戰爭邏輯：當年日本武裝攻佔中國，不是“侵略”是“去軍事化”？](https://www.histfacts.com/zh-tw/2024/09/fei_chang_dao_guo_e_wu_zhan_zheng_luo_ji_dang/)
+- [住在辦公室的人](https://www.histfacts.com/zh-tw/2024/09/mei_ri_ren_wu_zhu_zai_ban_gong_shi_de_ren/)
 - [勞燕東飛｜直面真實的世界](https://www.histfacts.com/zh-tw/2024/08/lao_dongyan_face_reality_world/)
+- [從住房養老金到砸鍋賣鐵，政策語言應該規範化](https://www.histfacts.com/zh-tw/2024/08/ruo_xin_hao_cong_zhu_fang_yang_lao_jin_dao_za/)
 - [你給儲戶賦紅碼，我們寫文秒被刪](https://www.histfacts.com/zh-tw/2024/08/qiu_ran_ke_hao_mang_ni_gei_chu_hu_fu_hong/)
+- [對話李佩霞案家屬委託律師：詢問能否依法依規安排會見未被回應](https://www.histfacts.com/zh-tw/2024/08/fa_du_law_dui_hua_li_pei_xia_an_jia_shu/)
+- [太原公安下一步應該就是找我了……以這種方式給自己的律師職業畫上句號，是最圓滿的事情。](https://www.histfacts.com/zh-tw/2024/08/yi_sheng_hua_lv_shi_tai_yuan_gong_an_xia_yi/)
 
 ## 404急救
 - [繁華漸逝：腹背受敵的中國經濟（讀懂，能受益30年）](https://www.histfacts.com/zh-tw/2024/07/the_besieged_chinese_economy/)
@@ -11,7 +17,12 @@
 - [沈岿 & 勞東燕｜關於「網證網號」的意見](https://www.histfacts.com/zh-tw/2024/08/china_internet_certificate_number/)
 - [【分析】中國試行網號、網證，是否會成為新型健康碼？](https://www.histfacts.com/zh-tw/2024/08/could_network_id_become_new_health_code/)
 
+## VOA
+- [中國內部潰爛的狀態評估](https://www.histfacts.com/zh-tw/2024/08/zhong_guo_nei_bu_kui_lan_zhuang_tai_ping_gu/)
+
 ## cdt
+- [中國“社會火山”正在醞釀分析：最怕底層互害](https://www.histfacts.com/zh-tw/2024/08/zhong_guo_she_hui_huo_shan_zheng_zai_yun_niang_fen/)
+- [萬萬沒想到，會被省紀委約見](https://www.histfacts.com/zh-tw/2024/09/yi_zhe_chu_wan_wan_mei_xiang_dao_hui_bei_sheng/)
 - [關於房屋養老金，還有幾個問題沒說清](https://www.histfacts.com/zh-tw/2024/08/si_huan_qing_nian_guan_yu_fang_wu_yang_lao_jin/)
 - [說實話我有點心疼悟空了](https://www.histfacts.com/zh-tw/2024/08/xi_po_yuan_chuang_shuo_shi_hua_wo_you_dian_xin/)
 - [給儲戶賦紅碼被處分的女官員，已任鄭州文旅局一把手](https://www.histfacts.com/zh-tw/2024/08/zong_lan_xin_wen_gei_chu_hu_fu_hong_ma_bei/)
@@ -22,6 +33,10 @@
 - [“公開，平等，競爭，擇優”是基本準則？不如說“公開，背景，內定，擇親”是基本準則](https://www.histfacts.com/zh-tw/2024/08/gong_kai_ping_deng_jing_zheng_ze_you_shi_ji/)
 - [“歷史的垃圾時間”是什麼梗？](https://www.histfacts.com/zh-tw/2024/08/li_shi_de_la_ji_shi_jian_shi_shen_me/)
 - [讓自己人先走](https://www.histfacts.com/zh-tw/2024/08/bao_you_qu_rang_zi_ji_ren_xian_zou/)
+- [當一座城市決定“砸鍋賣鐵”](https://www.histfacts.com/zh-tw/2024/08/jian_she_xing_yi_jian_dang_yi_zuo_cheng_shi_jue/)
+- [作爲一個小人物，當下如何自處？](https://www.histfacts.com/zh-tw/2024/08/yi_zhe_chao_xin_zuo_wei_yi_ge_xiao_ren_wu/)
+- [一個基層科員的官場修養](https://www.histfacts.com/zh-tw/2024/08/zheng_mian_lian_jie_yi_ge_ji_ceng_ke_yuan_de/)
+- [最後一輪暴漲](https://www.histfacts.com/zh-tw/2024/08/yi_zuo_du_li_wu_zui_hou_yi_lun_bao_zhang/)
 - [溫克堅：外資爲何做多中國債市？](https://www.histfacts.com/zh-tw/2024/08/xin_xin_mo_cun_wen_ke_jian_wai_zi_wei_he/)
 - [是誰殺死了那個出租公寓裏的外地女孩？](https://www.histfacts.com/zh-tw/2024/08/chang_shi_liu_tong_chu_shi_shui_sha_si_le_na/)
 - [給《黑神話：悟空》打8分的IGN編輯：別罵我祖宗，太瘋狂了！](https://www.histfacts.com/zh-tw/2024/08/you_min_xing_kong_gei_hei_shen_hua_wu_kong_da/)
@@ -49,6 +64,7 @@
 - [“如果‘自由’是好的，創造自由就比享受自由更好”（外二篇）](https://www.histfacts.com/zh-tw/2024/08/_ru_guo_zi_you_shi_hao_de_chuang_zao_zi/)
 - [全紅嬋和谷愛凌](https://www.histfacts.com/zh-tw/2024/08/wei_zhou_quan_hong_chan_he_gu_ai_ling/)
 - [“外地女孩死在出租屋”的爭議，我們到底該關注什麼](https://www.histfacts.com/zh-tw/2024/08/feng_sheng_opinion_wai_di_nv_hai_si_zai_chu_zu/)
+- [北戴河會後的亂象-中國的“大躍退”開始了](https://www.histfacts.com/zh-tw/2024/08/pu_huang_yu_shuo_bei_dai_he_hui_hou_de_luan/)
 - [全國就2輛罐車混運化工食用油，被記者精準發現了？](https://www.histfacts.com/zh-tw/2024/08/jian_she_xing_yi_jian_quan_guo_jiu_2_liang_guan/)
 
 ## cnd
@@ -120,6 +136,9 @@
 - [二湘：李政道和楊振寧的決裂並非無解之謎，我的五點分析](https://www.histfacts.com/zh-tw/2024/08/er_xiang_li_zheng_dao_he_yang_zhen_ning_de_jue/)
 - [劉小堽：祖父劉盼遂之死 趙　旭：文革中被槍斃的中共縣委副書記杜映華 張夢陽：論“文革”思維 範達人：“文革”御筆沉浮錄——“梁效”往事（選載之六）](https://www.histfacts.com/zh-tw/2024/08/di_yi_si_er_yi_qi_zk2407a_zuo_zhe_liu_xiao/)
 - [胡佛歷史學者林孝庭談蔣經國日記與美中蘇冷戰祕辛](https://www.histfacts.com/zh-tw/2024/08/fan_dong_ning_hu_fu_li_shi_xue_zhe_lin_xiao/)
+- [斯文何以掃地一一中國知識分子思想改造的特種煉獄](https://www.histfacts.com/zh-tw/2024/08/zi_zhong_yun_si_wen_he_yi_sao_di_yi_yi/)
+- [清和社長：歷史的垃圾時間](https://www.histfacts.com/zh-tw/2024/08/qing_he_she_zhang_li_shi_de_la_ji_shi_jian/)
+- [連晨：一朝被蛇咬，一生怕井繩：老一代知識分子內心的傷疤與恐懼](https://www.histfacts.com/zh-tw/2024/08/lian_chen_yi_zhao_bei_she_yao_yi_sheng_pa_jing/)
 - [梁實秋：旅行中需要一個合意的伴侶](https://www.histfacts.com/zh-tw/2024/08/liang_shi_qiu_lv_xing_zhong_xu_yao_yi_ge_he/)
 - [六四北京見聞散記](https://www.histfacts.com/zh-tw/2024/08/jing_sheng_liu_si_bei_jing_jian_wen_san_ji/)
 - [獨裁政府的決策和民意](https://www.histfacts.com/zh-tw/2024/08/jiang_wen_ming_du_cai_zheng_fu_de_jue_ce_he/)
@@ -177,6 +196,7 @@
 - [《西遊記》裏，最黑的當然不是神話](https://www.histfacts.com/zh-tw/2024/08/wu_kong_ni_zhen_de_chi_guo_ren_me/)
 - [沙僧：施主您誤會了！我可不是什麼好人啊！](https://www.histfacts.com/zh-tw/2024/08/sha_seng_shi_zhu_nin_wu_hui_le/)
 - [悟空，你真的吃過人麼？](https://www.histfacts.com/zh-tw/2024/08/xi_you_ji_zui_hei_bu_shi_shen_hua/)
+- [中國“社會火山”正在醞釀分析：最怕底層互害](https://www.histfacts.com/zh-tw/2024/08/zhong_guo_she_hui_huo_shan_zheng_zai_yun_niang_fen/)
 - [《經濟學人》報道中國祕密儲備大批物資](https://www.histfacts.com/zh-tw/2024/08/qiao_qin_en_jing_ji_xue_ren_bao_dao_zhong_guo/)
 - [彭小蓮：認識鍾叔河先生](https://www.histfacts.com/zh-tw/2024/08/peng_xiao_lian_ren_shi_zhong_shu_he_xian_sheng/)
 - [微侃醫林(155)噁心一一製藥公司如何摧毀美國醫療保健（I）](https://www.histfacts.com/zh-tw/2024/08/qing_yi_jiang_wei_kan_yi_lin_155_e_xin_yi/)
@@ -245,6 +265,7 @@
 - [二湘：李政道和楊振寧的決裂並非無解之謎，我的五點分析](https://www.histfacts.com/zh-tw/2024/08/er_xiang_li_zheng_dao_he_yang_zhen_ning_de_jue/)
 - [劉小堽：祖父劉盼遂之死 趙　旭：文革中被槍斃的中共縣委副書記杜映華 張夢陽：論“文革”思維 範達人：“文革”御筆沉浮錄——“梁效”往事（選載之六）](https://www.histfacts.com/zh-tw/2024/08/di_yi_si_er_yi_qi_zk2407a_zuo_zhe_liu_xiao/)
 - [胡佛歷史學者林孝庭談蔣經國日記與美中蘇冷戰祕辛](https://www.histfacts.com/zh-tw/2024/08/fan_dong_ning_hu_fu_li_shi_xue_zhe_lin_xiao/)
+- [連晨：一朝被蛇咬，一生怕井繩：老一代知識分子內心的傷疤與恐懼](https://www.histfacts.com/zh-tw/2024/08/lian_chen_yi_zhao_bei_she_yao_yi_sheng_pa_jing/)
 - [梁實秋：旅行中需要一個合意的伴侶](https://www.histfacts.com/zh-tw/2024/08/liang_shi_qiu_lv_xing_zhong_xu_yao_yi_ge_he/)
 - [六四北京見聞散記](https://www.histfacts.com/zh-tw/2024/08/jing_sheng_liu_si_bei_jing_jian_wen_san_ji/)
 - [獨裁政府的決策和民意](https://www.histfacts.com/zh-tw/2024/08/jiang_wen_ming_du_cai_zheng_fu_de_jue_ce_he/)
@@ -307,6 +328,7 @@
 - [“公開，平等，競爭，擇優”是基本準則？不如說“公開，背景，內定，擇親”是基本準則](https://www.histfacts.com/zh-tw/2024/08/gong_kai_ping_deng_jing_zheng_ze_you_shi_ji/)
 - [“歷史的垃圾時間”是什麼梗？](https://www.histfacts.com/zh-tw/2024/08/li_shi_de_la_ji_shi_jian_shi_shen_me/)
 - [讓自己人先走](https://www.histfacts.com/zh-tw/2024/08/bao_you_qu_rang_zi_ji_ren_xian_zou/)
+- [一個基層科員的官場修養](https://www.histfacts.com/zh-tw/2024/08/zheng_mian_lian_jie_yi_ge_ji_ceng_ke_yuan_de/)
 - [溫克堅：外資爲何做多中國債市？](https://www.histfacts.com/zh-tw/2024/08/xin_xin_mo_cun_wen_ke_jian_wai_zi_wei_he/)
 - [是誰殺死了那個出租公寓裏的外地女孩？](https://www.histfacts.com/zh-tw/2024/08/chang_shi_liu_tong_chu_shi_shui_sha_si_le_na/)
 - [給《黑神話：悟空》打8分的IGN編輯：別罵我祖宗，太瘋狂了！](https://www.histfacts.com/zh-tw/2024/08/you_min_xing_kong_gei_hei_shen_hua_wu_kong_da/)
@@ -340,11 +362,44 @@
 - [留給許家印家族的時間不多了](https://www.histfacts.com/zh-tw/2024/08/liu_gei_xu_jia_yin_shi_jian_bu_duo/)
 - [全國就2輛罐車混運化工食用油，被記者精準發現了？](https://www.histfacts.com/zh-tw/2024/08/jian_she_xing_yi_jian_quan_guo_jiu_2_liang_guan/)
 
+## 三中全會
+- [中國內部潰爛的狀態評估](https://www.histfacts.com/zh-tw/2024/08/zhong_guo_nei_bu_kui_lan_zhuang_tai_ping_gu/)
+
+## 不拍不錄
+- [憑啥宣誓“不對老師甩臉子”，憑啥承諾對霸凌“不拍不錄”](https://www.histfacts.com/zh-tw/2024/09/lao_xiao_za_shuo_ping_sha_xuan_shi_bu_dui_lao/)
+
+## 中共
+- [林培瑞：司法爭奪戰——李銳日記放哪裏？](https://www.histfacts.com/zh-tw/2024/09/lin_pei_rui_si_fa_zheng_duo_zhan_li_rui_ri/)
+
+## 中共檔案
+- [李銳日記爭奪戰,中共為什麼要不惜代價討回李銳日記?(上)](https://www.histfacts.com/zh-tw/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights/)
+- [李銳日記爭奪戰,中共為什麼要不惜代價討回李銳日記?(下)](https://www.histfacts.com/zh-tw/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights_b/)
+
+## 中国
+- [中國內需不振轉向非洲買家，中歐競爭給安哥拉帶來機會](https://www.histfacts.com/zh-tw/2024/09/zhong_guo_nei_xu_bu_zhen_zhuan_xiang_fei_zhou_mai/)
+- [世界媒體看中國:電動汽車與貿易形勢](https://www.histfacts.com/zh-tw/2024/09/shi_jie_mei_ti_kan_zhong_guo_dian_dong_qi_che/)
+- [辯證地看待0:7](https://www.histfacts.com/zh-tw/2024/09/mai_xing_hua_bian_zheng_di_kan_dai_0_7/)
+
 ## 中國現狀
 - [從歷史比較看當前的中國](https://www.histfacts.com/zh-tw/2024/08/cong_li_shi_bi_jiao_kan_dang_qian_de_zhong_guo/)
+- [未來最賺錢的5大趨勢](https://www.histfacts.com/zh-tw/2024/09/wei_lai_zui_zhuan_qian_de_5_da_qu_shi/)
 
 ## 中國經濟
 - [從歷史比較看當前的中國](https://www.histfacts.com/zh-tw/2024/08/cong_li_shi_bi_jiao_kan_dang_qian_de_zhong_guo/)
+- [未來最賺錢的5大趨勢](https://www.histfacts.com/zh-tw/2024/09/wei_lai_zui_zhuan_qian_de_5_da_qu_shi/)
+
+## 中國足球
+- [讓我感到羞愧的，不是中國足球](https://www.histfacts.com/zh-tw/2024/09/guan_ren_sui_bi_rang_wo_gan_dao_xiu_kui_de/)
+
+## 中美建交
+- [三起三落，鄧小平人生的40個瞬間](https://www.histfacts.com/zh-tw/2024/09/san_qi_san_luo_deng_xiao_ping/)
+
+## 习近平
+- [胡錦濤二十大爲何兩次被辱？](https://www.histfacts.com/zh-tw/2024/09/zhuan_fang_gao_fa_lin_hu_jin_tao_er_shi_da/)
+- [胡錦濤是好人，但可惜不是好領路人](https://www.histfacts.com/zh-tw/2024/09/zhuan_fang_gao_fa_lin_xia_ta_shi_hao_ren_dan/)
+
+## 二十大
+- [胡錦濤二十大爲何兩次被辱？](https://www.histfacts.com/zh-tw/2024/09/zhuan_fang_gao_fa_lin_hu_jin_tao_er_shi_da/)
 
 ## 二爷故事
 - [毛澤東與林彪：第一嫡系的叛逃之謎（四）](https://www.histfacts.com/zh-tw/2024/07/mao_zedong_and_lin_biao_4/)
@@ -364,8 +419,75 @@
 - [华国锋（上集）：領袖為何造反？懷仁堂事變始末](https://www.histfacts.com/zh-tw/2024/07/hua_guo_feng_part_one_leaders_why_revolt/)
 - [华国锋（下集）：邓小平是怎麼玩弄權術，扳倒華國鋒的？](https://www.histfacts.com/zh-tw/2024/07/hua_guofeng_part_2_deng_xiaoping_overthrow/)
 
+## 亞當·斯密
+- [市場經濟：亞當·斯密的萬能的手](https://www.histfacts.com/zh-tw/2024/09/jiang_wen_ming_shi_chang_jing_ji_1_shi_mi_si/)
+
 ## 人性
+- [譚秦東：竟是我的校友舉報了我](https://www.histfacts.com/zh-tw/2024/09/tan_qin_dong_he_ta_peng_you_men_tan_qin_dong/)
 - [這世上最難的事，是向一群傻 x 自證清白](https://www.histfacts.com/zh-tw/2024/07/the_hardest_thing_in_this_world/)
+
+## 人权
+- [聯合國人權報告發表二週年，各方對新疆狀況感到失望，敦促北京停止迫害維吾爾人](https://www.histfacts.com/zh-tw/2024/09/lian_he_guo_ren_quan_bao_gao_fa_biao_er_zhou/)
+
+## 住在辦公室
+- [住在辦公室的人](https://www.histfacts.com/zh-tw/2024/09/mei_ri_ren_wu_zhu_zai_ban_gong_shi_de_ren/)
+
+## 住房養老
+- [從住房養老金到砸鍋賣鐵，政策語言應該規範化](https://www.histfacts.com/zh-tw/2024/08/ruo_xin_hao_cong_zhu_fang_yang_lao_jin_dao_za/)
+
+## 侵略
+- [俄烏戰爭邏輯：當年日本武裝攻佔中國，不是“侵略”是“去軍事化”？](https://www.histfacts.com/zh-tw/2024/09/fei_chang_dao_guo_e_wu_zhan_zheng_luo_ji_dang/)
+
+## 俄方
+- [松仁：賴清德輿中國爲領土完整應去收復被俄羅斯佔據的大清領土（附俄回應）](https://www.histfacts.com/zh-tw/2024/09/song_ren_lai_qing_de_yu_zhong_guo_wei_ling_tu/)
+
+## 俄烏戰爭
+- [俄烏戰爭邏輯：當年日本武裝攻佔中國，不是“侵略”是“去軍事化”？](https://www.histfacts.com/zh-tw/2024/09/fei_chang_dao_guo_e_wu_zhan_zheng_luo_ji_dang/)
+
+## 倒賣屍體
+- [太原公安下一步應該就是找我了……以這種方式給自己的律師職業畫上句號，是最圓滿的事情。](https://www.histfacts.com/zh-tw/2024/08/yi_sheng_hua_lv_shi_tai_yuan_gong_an_xia_yi/)
+
+## 債務
+- [當一座城市決定“砸鍋賣鐵”](https://www.histfacts.com/zh-tw/2024/08/jian_she_xing_yi_jian_dang_yi_zuo_cheng_shi_jue/)
+
+## 八宗罪
+- [八宗罪！一律所向律協發函：申請退出律協](https://www.histfacts.com/zh-tw/2024/09/fa_gui_zhi_nan_ba_zong_zui_yi_lv_suo_xiang/)
+
+## 公共
+- [“房屋養老金不要老百姓直接出錢，可不可以理解爲‘要老百姓間接出錢’呢？”](https://www.histfacts.com/zh-tw/2024/09/fang_wu_yang_lao_jin_bu_yao_lao_bai_xing/)
+
+## 公權力
+- [青島路虎女被製成車貼，這是城市的恥辱印記](https://www.histfacts.com/zh-tw/2024/09/lao_xiao_za_shuo_qing_dao_lu_hu_nv_bei_zhi/)
+
+## 共青团
+- [胡錦濤是好人，但可惜不是好領路人](https://www.histfacts.com/zh-tw/2024/09/zhuan_fang_gao_fa_lin_xia_ta_shi_hao_ren_dan/)
+
+## 关税
+- [世界媒體看中國:電動汽車與貿易形勢](https://www.histfacts.com/zh-tw/2024/09/shi_jie_mei_ti_kan_zhong_guo_dian_dong_qi_che/)
+
+## 养老金
+- [“房屋養老金不要老百姓直接出錢，可不可以理解爲‘要老百姓間接出錢’呢？”](https://www.histfacts.com/zh-tw/2024/09/fang_wu_yang_lao_jin_bu_yao_lao_bai_xing/)
+
+## 冯友兰
+- [斯文何以掃地一一中國知識分子思想改造的特種煉獄](https://www.histfacts.com/zh-tw/2024/08/zi_zhong_yun_si_wen_he_yi_sao_di_yi_yi/)
+
+## 出租屋
+- [“貞觀”公衆號被封禁了，我擔心的事發生了](https://www.histfacts.com/zh-tw/2024/09/dong_jian_bao_gao_zhen_guan_gong_zhong_hao_bei_feng/)
+
+## 刘少奇
+- [文革幫兇](https://www.histfacts.com/zh-tw/2024/08/wen_ge_zui_da_shou_hai_zhe_de_ling_yi_ge/)
+
+## 判決書
+- [萬萬沒想到，會被省紀委約見](https://www.histfacts.com/zh-tw/2024/09/yi_zhe_chu_wan_wan_mei_xiang_dao_hui_bei_sheng/)
+
+## 化債
+- [砸鍋賣鐵，關鍵看砸誰的鍋](https://www.histfacts.com/zh-tw/2024/08/a_luo_han_bu_yue_za_guo_mai_tie_guan_jian/)
+
+## 北戴河
+- [北戴河會後的亂象-中國的“大躍退”開始了](https://www.histfacts.com/zh-tw/2024/08/pu_huang_yu_shuo_bei_dai_he_hui_hou_de_luan/)
+
+## 北漂
+- [住在辦公室的人](https://www.histfacts.com/zh-tw/2024/09/mei_ri_ren_wu_zhu_zai_ban_gong_shi_de_ren/)
 
 ## 北美
 - [美國無家可歸現象：統計數據、分析與趨勢](https://www.histfacts.com/zh-tw/2024/08/homelessness_in_america/)
@@ -373,14 +495,63 @@
 - [為什麼這麼多人無家可歸？](https://www.histfacts.com/zh-tw/2024/08/why_are_so_many_people_homeless/)
 - [深入聊聊：為何是山東臨沂出現弓箭傷人惡性事件？](https://www.histfacts.com/zh-tw/2024/08/why_bow_and_arrow_attack_happen_linyi/)
 
+## 华国锋
+- [華國鋒按部就班請出鄧小平，鄧小平迫不及待趕走華國鋒](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_an_bu_jiu_ban_qing_chu_deng_xiao/)
+- [不是鄧小平提拔胡耀邦，而是胡耀邦推薦鄧小平](https://www.histfacts.com/zh-tw/2024/08/bu_shi_deng_xiao_ping_ti_ba_hu_yao_bang_er/)
+- [華國鋒是文革後中國歷史性轉變的主要啓動者](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_shi_wen_ge_hou_zhong_guo_li_shi/)
+- [華國鋒的歷史功績不應貶低，他的歷史罪惡也不容饒恕](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_de_li_shi_gong_ji_bu_ying_bian/)
+
+## 去世
+- [風雨飄搖的1976年：謠言漫天、大事成堆](https://www.histfacts.com/zh-tw/2024/09/feng_yu_piao_yao_de_1976_nian_yao_yan_man_tian/)
+
+## 去軍事化
+- [俄烏戰爭邏輯：當年日本武裝攻佔中國，不是“侵略”是“去軍事化”？](https://www.histfacts.com/zh-tw/2024/09/fei_chang_dao_guo_e_wu_zhan_zheng_luo_ji_dang/)
+
+## 台湾
+- [松仁：賴清德輿中國爲領土完整應去收復被俄羅斯佔據的大清領土（附俄回應）](https://www.histfacts.com/zh-tw/2024/09/song_ren_lai_qing_de_yu_zhong_guo_wei_ling_tu/)
+
+## 叶佳
+- [月薪三萬的陸家嘴打工人，摳摳搜搜](https://www.histfacts.com/zh-tw/2024/09/meng_ma_gong_zuo_shi_yue_xin_san_wan_de_lu/)
+
+## 叶剑英
+- [華國鋒按部就班請出鄧小平，鄧小平迫不及待趕走華國鋒](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_an_bu_jiu_ban_qing_chu_deng_xiao/)
+- [不是鄧小平提拔胡耀邦，而是胡耀邦推薦鄧小平](https://www.histfacts.com/zh-tw/2024/08/bu_shi_deng_xiao_ping_ti_ba_hu_yao_bang_er/)
+
+## 吴彦荣
+- [第14天坐牢，無人知曉他何等罪名](https://www.histfacts.com/zh-tw/2024/09/qing_kuang_you_dian_fu_za_di_14_tian_zuo_lao/)
+
+## 吹哨人
+- [第14天坐牢，無人知曉他何等罪名](https://www.histfacts.com/zh-tw/2024/09/qing_kuang_you_dian_fu_za_di_14_tian_zuo_lao/)
+
+## 告密者
+- [譚秦東：竟是我的校友舉報了我](https://www.histfacts.com/zh-tw/2024/09/tan_qin_dong_he_ta_peng_you_men_tan_qin_dong/)
+
 ## 周恩來
 - [鮮為人知的周恩來](https://www.histfacts.com/zh-tw/2024/08/little-known_zhou_enlai_a/)
 - [不為人知的周恩來：政治完人背後的面孔（下集）](https://www.histfacts.com/zh-tw/2024/08/the_untold_story_of_zhou_enlai_b/)
 - [解密時刻：毛澤東的忠臣周恩來（完整版）](https://www.histfacts.com/zh-tw/2024/08/revealing_moments_zhou_enlai/)
 - [不為人知的周恩來：政治完人背後的面孔（上集）](https://www.histfacts.com/zh-tw/2024/08/the_untold_story_of_zhou_enlai_a/)
 
+## 周恩来
+- [周恩來鄧小平林彪對毛澤東壓力的不同態度](https://www.histfacts.com/zh-tw/2024/09/zhou_en_lai_deng_xiao_ping_lin_biao_dui_mao_ze/)
+
+## 周總理
+- [風雨飄搖的1976年：謠言漫天、大事成堆](https://www.histfacts.com/zh-tw/2024/09/feng_yu_piao_yao_de_1976_nian_yao_yan_man_tian/)
+
 ## 商业
 - [特朗普第二任期對商業的影響：獨家解讀](https://www.histfacts.com/zh-tw/2024/07/trump_second_term_mean/)
+
+## 四人帮
+- [華國鋒按部就班請出鄧小平，鄧小平迫不及待趕走華國鋒](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_an_bu_jiu_ban_qing_chu_deng_xiao/)
+
+## 四人幫
+- [風雨飄搖的1976年：謠言漫天、大事成堆](https://www.histfacts.com/zh-tw/2024/09/feng_yu_piao_yao_de_1976_nian_yao_yan_man_tian/)
+
+## 国产藥
+- [很多進口藥，悄無聲息地消失了](https://www.histfacts.com/zh-tw/2024/09/chang_shi_liu_tong_chu_hen_duo_jin_kou_yao_qiao/)
+
+## 国家
+- [怎樣在2025剷除全球最後獨裁者？](https://www.histfacts.com/zh-tw/2024/09/zen_yang_zai_2025_chan_chu_quan_qiu_zui_hou_du/)
 
 ## 國共內戰
 - [龍應臺《大江大海1949》之長春圍城](https://www.histfacts.com/zh-tw/2024/08/long_ying_tai_1949_zhi_chang_chun_wei_cheng/)
@@ -389,8 +560,75 @@
 - [1948年長春戰役-以國民黨政府為中心的考察](https://www.histfacts.com/zh-tw/2024/08/chang_chun_zhan_yi_guo_min_dang_kao_cha/)
 - [羅榮桓：關於圍困長春的報告（1948.09.09）](https://www.histfacts.com/zh-tw/2024/08/guan_yu_wei_kun_chang_chun_bao_gao/)
 
+## 國富論
+- [市場經濟：亞當·斯密的萬能的手](https://www.histfacts.com/zh-tw/2024/09/jiang_wen_ming_shi_chang_jing_ji_1_shi_mi_si/)
+
+## 地溝油
+- [底層互害，越來越魔幻了](https://www.histfacts.com/zh-tw/2024/09/jian_ke_xie_zi_de_di_fang_di_ceng_hu_hai/)
+
+## 垃圾時間
+- [清和社長：歷史的垃圾時間](https://www.histfacts.com/zh-tw/2024/08/qing_he_she_zhang_li_shi_de_la_ji_shi_jian/)
+
+## 外国人
+- [中國停止國際收養，棄嬰的逆天改命機會也沒了](https://www.histfacts.com/zh-tw/2024/09/huan_xi_sha_du_fu_zhong_guo_ting_zhi_guo_ji/)
+
+## 大躍退
+- [北戴河會後的亂象-中國的“大躍退”開始了](https://www.histfacts.com/zh-tw/2024/08/pu_huang_yu_shuo_bei_dai_he_hui_hou_de_luan/)
+
+## 女孩
+- [“貞觀”公衆號被封禁了，我擔心的事發生了](https://www.histfacts.com/zh-tw/2024/09/dong_jian_bao_gao_zhen_guan_gong_zhong_hao_bei_feng/)
+
+## 孟加拉
+- [孟加拉人民痛恨的，是特權](https://www.histfacts.com/zh-tw/2024/08/meng_jia_la_ren_min_tong_hen_de_shi_te_quan/)
+
 ## 孫悟空
 - [將孫悟空定位爲反抗英雄，纔是對他的黑化](https://www.histfacts.com/zh-tw/2024/08/hou_dai_liao_zhai_jiang_sun_wu_kong_ding_wei_wei/)
+
+## 學生中暑
+- [高溫之下的荒誕教育亂象](https://www.histfacts.com/zh-tw/2024/09/gao_wen_zhi_xia_de_huang_dan_jiao_yu_luan_xiang/)
+
+## 宋永毅
+- [文革幫兇](https://www.histfacts.com/zh-tw/2024/08/wen_ge_zui_da_shou_hai_zhe_de_ling_yi_ge/)
+
+## 客户
+- [月薪三萬的陸家嘴打工人，摳摳搜搜](https://www.histfacts.com/zh-tw/2024/09/meng_ma_gong_zuo_shi_yue_xin_san_wan_de_lu/)
+
+## 封號
+- [第一次課，講到了被封號的貞觀文章](https://www.histfacts.com/zh-tw/2024/09/tang_shi_san_bai_shou_di_yi_ci_ke_jiang_dao/)
+
+## 尋釁滋事
+- [張展赴甘肅營救張盼成後失聯](https://www.histfacts.com/zh-tw/2024/08/wei_quan_wang_zhang_zhan_fu_gan_su_ying_jiu_zhang/)
+
+## 小人物
+- [作爲一個小人物，當下如何自處？](https://www.histfacts.com/zh-tw/2024/08/yi_zhe_chao_xin_zuo_wei_yi_ge_xiao_ren_wu/)
+
+## 工業革命
+- [市場經濟：亞當·斯密的萬能的手](https://www.histfacts.com/zh-tw/2024/09/jiang_wen_ming_shi_chang_jing_ji_1_shi_mi_si/)
+
+## 巴菲特
+- [巴菲特1999年演講：去做那些讓我們感到興奮的事情](https://www.histfacts.com/zh-tw/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
+
+## 希特勒
+- [他離希特勒有多遠?](https://www.histfacts.com/zh-tw/2024/09/ta_li_xi_te_lei_you_duo_yuan_/)
+
+## 廬山會議
+- [李銳日記爭奪戰,中共為什麼要不惜代價討回李銳日記?(上)](https://www.histfacts.com/zh-tw/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights/)
+- [李銳日記爭奪戰,中共為什麼要不惜代價討回李銳日記?(下)](https://www.histfacts.com/zh-tw/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights_b/)
+
+## 弃婴
+- [中國停止國際收養，棄嬰的逆天改命機會也沒了](https://www.histfacts.com/zh-tw/2024/09/huan_xi_sha_du_fu_zhong_guo_ting_zhi_guo_ji/)
+
+## 張展
+- [張展赴甘肅營救張盼成後失聯](https://www.histfacts.com/zh-tw/2024/08/wei_quan_wang_zhang_zhan_fu_gan_su_ying_jiu_zhang/)
+
+## 强势
+- [憑啥宣誓“不對老師甩臉子”，憑啥承諾對霸凌“不拍不錄”](https://www.histfacts.com/zh-tw/2024/09/lao_xiao_za_shuo_ping_sha_xuan_shi_bu_dui_lao/)
+
+## 律協
+- [八宗罪！一律所向律協發函：申請退出律協](https://www.histfacts.com/zh-tw/2024/09/fa_gui_zhi_nan_ba_zong_zui_yi_lv_suo_xiang/)
+
+## 律师
+- [八宗罪！一律所向律協發函：申請退出律協](https://www.histfacts.com/zh-tw/2024/09/fa_gui_zhi_nan_ba_zong_zui_yi_lv_suo_xiang/)
 
 ## 微信
 - [《西遊記》裏，最黑的當然不是神話](https://www.histfacts.com/zh-tw/2024/08/wu_kong_ni_zhen_de_chi_guo_ren_me/)
@@ -403,32 +641,123 @@
 - [劉曉蕾｜《西遊記》易改，《紅樓夢》難拍](https://www.histfacts.com/zh-tw/2024/08/xi_you_ji_yi_gai_hong_lou_meng_nan_pai/)
 - [《黑神話：悟空》到底有啥意義？](https://www.histfacts.com/zh-tw/2024/08/hei_shen_hua_wu_kong_dao_di_you_sha_yi_yi/)
 - [留給許家印家族的時間不多了](https://www.histfacts.com/zh-tw/2024/08/liu_gei_xu_jia_yin_shi_jian_bu_duo/)
+- [孟加拉人民痛恨的，是特權](https://www.histfacts.com/zh-tw/2024/08/meng_jia_la_ren_min_tong_hen_de_shi_te_quan/)
+- [巴菲特1999年演講：去做那些讓我們感到興奮的事情](https://www.histfacts.com/zh-tw/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
+
+## 德国
+- [他離希特勒有多遠?](https://www.histfacts.com/zh-tw/2024/09/ta_li_xi_te_lei_you_duo_yuan_/)
+
+## 悟空
+- [陶鎰萬：下聯是“魚脫網外，潤之成就程潛”](https://www.histfacts.com/zh-tw/2024/09/tao_yi_wan_xia_lian_shi_yu_tuo_wang_wai_run/)
+
+## 應試教育
+- [高溫之下的荒誕教育亂象](https://www.histfacts.com/zh-tw/2024/09/gao_wen_zhi_xia_de_huang_dan_jiao_yu_luan_xiang/)
+
+## 房價
+- [最後一輪暴漲](https://www.histfacts.com/zh-tw/2024/08/yi_zuo_du_li_wu_zui_hou_yi_lun_bao_zhang/)
+
+## 房屋
+- [“房屋養老金不要老百姓直接出錢，可不可以理解爲‘要老百姓間接出錢’呢？”](https://www.histfacts.com/zh-tw/2024/09/fang_wu_yang_lao_jin_bu_yao_lao_bai_xing/)
+
+## 批孔
+- [斯文何以掃地一一中國知識分子思想改造的特種煉獄](https://www.histfacts.com/zh-tw/2024/08/zi_zhong_yun_si_wen_he_yi_sao_di_yi_yi/)
 
 ## 投資智慧
 - [李錄50歲生日會上的演講：《返璞歸真，尊天命而為之》](https://www.histfacts.com/zh-tw/2024/08/fan_pu_gui_zhen_zun_tian_ming_er_wei_zhi/)
 - [《窮查理寶典》中文版序：書中自有黃金屋](https://www.histfacts.com/zh-tw/2024/08/books_contain_houses_of_gold/)
 
 ## 投资策略
+- [如果從30歲重新開始，將如何選擇投資？股神巴菲特告訴你答案](https://www.histfacts.com/zh-tw/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
 - [巴菲特歷次拋售都有的驚人規律！史無前例大拋售的真相終於揭曉！大危機將至？](https://www.histfacts.com/zh-tw/2024/08/why_did_buffett_sell_stocks/)
 - [【乾貨】期權入門及低風險策略](https://www.histfacts.com/zh-tw/2024/07/introduction_to_options_and_low-risk_strategies/)
-- [如果從30歲重新開始，將如何選擇投資？股神巴菲特告訴你答案](https://www.histfacts.com/zh-tw/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
+
+## 报告
+- [聯合國人權報告發表二週年，各方對新疆狀況感到失望，敦促北京停止迫害維吾爾人](https://www.histfacts.com/zh-tw/2024/09/lian_he_guo_ren_quan_bao_gao_fa_biao_er_zhou/)
+
+## 拉梅尔
+- [怎樣在2025剷除全球最後獨裁者？](https://www.histfacts.com/zh-tw/2024/09/zen_yang_zai_2025_chan_chu_quan_qiu_zui_hou_du/)
+
+## 捍衛者
+- [張展赴甘肅營救張盼成後失聯](https://www.histfacts.com/zh-tw/2024/08/wei_quan_wang_zhang_zhan_fu_gan_su_ying_jiu_zhang/)
 
 ## 探索与反思
 - [如何渡過歷史的垃圾時間](https://www.histfacts.com/zh-tw/2024/07/how_to_get_through_historical_wasted_time/)
 - [再看《北京人在紐約》：一部時代鏡像下的移民反思](https://www.histfacts.com/zh-tw/2024/07/reflections_on_immigration/)
 
+## 收养
+- [中國停止國際收養，棄嬰的逆天改命機會也沒了](https://www.histfacts.com/zh-tw/2024/09/huan_xi_sha_du_fu_zhong_guo_ting_zhi_guo_ji/)
+
+## 改革開放
+- [三起三落，鄧小平人生的40個瞬間](https://www.histfacts.com/zh-tw/2024/09/san_qi_san_luo_deng_xiao_ping/)
+
+## 政治
+- [臺灣政治惡鬥的根深蒂固和第三勢力泡沫化的魔咒](https://www.histfacts.com/zh-tw/2024/09/ke_wen_zhe_bei_bu_tai_wan_zheng_zhi_e_dou/)
+
+## 文化大革命
+- [三起三落，鄧小平人生的40個瞬間](https://www.histfacts.com/zh-tw/2024/09/san_qi_san_luo_deng_xiao_ping/)
+
 ## 文學與歷史
 - [歷史的底牌：易中天中華史演講（文字版-上）](https://www.histfacts.com/zh-tw/2024/08/the_hidden_card_of_history_a/)
 - [歷史的底牌：易中天中華史演講（文字版-下）](https://www.histfacts.com/zh-tw/2024/08/the_hidden_card_of_history_b/)
+
+## 文革
+- [華國鋒的歷史功績不應貶低，他的歷史罪惡也不容饒恕](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_de_li_shi_gong_ji_bu_ying_bian/)
+- [文革幫兇](https://www.histfacts.com/zh-tw/2024/08/wen_ge_zui_da_shou_hai_zhe_de_ling_yi_ge/)
+
+## 斯坦福
+- [林培瑞：司法爭奪戰——李銳日記放哪裏？](https://www.histfacts.com/zh-tw/2024/09/lin_pei_rui_si_fa_zheng_duo_zhan_li_rui_ri/)
+
+## 新疆
+- [聯合國人權報告發表二週年，各方對新疆狀況感到失望，敦促北京停止迫害維吾爾人](https://www.histfacts.com/zh-tw/2024/09/lian_he_guo_ren_quan_bao_gao_fa_biao_er_zhou/)
+
+## 日本
+- [“潤”的新選擇：對中國新移民而言，日本或比美國更具吸引力](https://www.histfacts.com/zh-tw/2024/09/run_de_xin_xuan_ze_dui_zhong_guo_xin_yi/)
+- [辯證地看待0:7](https://www.histfacts.com/zh-tw/2024/09/mai_xing_hua_bian_zheng_di_kan_dai_0_7/)
+
+## 日记
+- [林培瑞：司法爭奪戰——李銳日記放哪裏？](https://www.histfacts.com/zh-tw/2024/09/lin_pei_rui_si_fa_zheng_duo_zhan_li_rui_ri/)
+
+## 易勝華
+- [太原公安下一步應該就是找我了……以這種方式給自己的律師職業畫上句號，是最圓滿的事情。](https://www.histfacts.com/zh-tw/2024/08/yi_sheng_hua_lv_shi_tai_yuan_gong_an_xia_yi/)
+
+## 朱鎔基
+- [一言難盡朱鎔基：貳臣、忠臣與能臣（文字整理稿）](https://www.histfacts.com/zh-tw/2024/09/yi_yan_nan_jin_zhu_rong_ji/)
+
+## 李佩霞案
+- [對話李佩霞案家屬委託律師：詢問能否依法依規安排會見未被回應](https://www.histfacts.com/zh-tw/2024/08/fa_du_law_dui_hua_li_pei_xia_an_jia_shu/)
+
+## 李銳
+- [李銳日記爭奪戰,中共為什麼要不惜代價討回李銳日記?(上)](https://www.histfacts.com/zh-tw/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights/)
+
+## 李銳日記
+- [李銳日記爭奪戰,中共為什麼要不惜代價討回李銳日記?(下)](https://www.histfacts.com/zh-tw/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights_b/)
+
+## 李锐
+- [林培瑞：司法爭奪戰——李銳日記放哪裏？](https://www.histfacts.com/zh-tw/2024/09/lin_pei_rui_si_fa_zheng_duo_zhan_li_rui_ri/)
+
+## 条约
+- [松仁：賴清德輿中國爲領土完整應去收復被俄羅斯佔據的大清領土（附俄回應）](https://www.histfacts.com/zh-tw/2024/09/song_ren_lai_qing_de_yu_zhong_guo_wei_ling_tu/)
+
+## 极右翼
+- [他離希特勒有多遠?](https://www.histfacts.com/zh-tw/2024/09/ta_li_xi_te_lei_you_duo_yuan_/)
+
+## 林彪
+- [周恩來鄧小平林彪對毛澤東壓力的不同態度](https://www.histfacts.com/zh-tw/2024/09/zhou_en_lai_deng_xiao_ping_lin_biao_dui_mao_ze/)
 
 ## 查理十一講
 - [第一講：在哈佛學校畢業典禮上的演講](https://www.histfacts.com/zh-tw/2024/07/charles_xi_lectures_01/)
 - [第二講：論基本的、普世的智慧，及其與投資管理和商業的關係](https://www.histfacts.com/zh-tw/2024/07/charles_xi_lectures_02/)
 
+## 柯文
+- [臺灣政治惡鬥的根深蒂固和第三勢力泡沫化的魔咒](https://www.histfacts.com/zh-tw/2024/09/ke_wen_zhe_bei_bu_tai_wan_zheng_zhi_e_dou/)
+
 ## 柴静访谈
 - [沒有獨立的司法沒有一個人是安全的（下）](https://www.histfacts.com/zh-tw/2024/07/chai_jing_interviews_he_weifang_part2/)
 - [沒有獨立的司法沒有一個人是安全的（上）](https://www.histfacts.com/zh-tw/2024/07/chai_jing_interviews_he_weifang_part1/)
 - [高耀潔：為真相堅守的生命之路](https://www.histfacts.com/zh-tw/2024/07/gao_yaojie_a_lifelong_journey_of_upholding_truth/)
+
+## 校友
+- [譚秦東：竟是我的校友舉報了我](https://www.histfacts.com/zh-tw/2024/09/tan_qin_dong_he_ta_peng_you_men_tan_qin_dong/)
 
 ## 歷史
 - [龍應臺《大江大海1949》之長春圍城](https://www.histfacts.com/zh-tw/2024/08/long_ying_tai_1949_zhi_chang_chun_wei_cheng/)
@@ -441,8 +770,44 @@
 ## 殯葬
 - [地下工作大受影響](https://www.histfacts.com/zh-tw/2024/08/xing_qiu_shang_ye_ping_lun_di_xia_gong_zuo_da/)
 
+## 比分
+- [辯證地看待0:7](https://www.histfacts.com/zh-tw/2024/09/mai_xing_hua_bian_zheng_di_kan_dai_0_7/)
+
+## 毛主席
+- [風雨飄搖的1976年：謠言漫天、大事成堆](https://www.histfacts.com/zh-tw/2024/09/feng_yu_piao_yao_de_1976_nian_yao_yan_man_tian/)
+
+## 毛泽东
+- [周恩來鄧小平林彪對毛澤東壓力的不同態度](https://www.histfacts.com/zh-tw/2024/09/zhou_en_lai_deng_xiao_ping_lin_biao_dui_mao_ze/)
+- [華國鋒是文革後中國歷史性轉變的主要啓動者](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_shi_wen_ge_hou_zhong_guo_li_shi/)
+- [文革幫兇](https://www.histfacts.com/zh-tw/2024/08/wen_ge_zui_da_shou_hai_zhe_de_ling_yi_ge/)
+
+## 民主
+- [怎樣在2025剷除全球最後獨裁者？](https://www.histfacts.com/zh-tw/2024/09/zen_yang_zai_2025_chan_chu_quan_qiu_zui_hou_du/)
+
+## 民众党
+- [臺灣政治惡鬥的根深蒂固和第三勢力泡沫化的魔咒](https://www.histfacts.com/zh-tw/2024/09/ke_wen_zhe_bei_bu_tai_wan_zheng_zhi_e_dou/)
+
+## 民进党
+- [臺灣政治惡鬥的根深蒂固和第三勢力泡沫化的魔咒](https://www.histfacts.com/zh-tw/2024/09/ke_wen_zhe_bei_bu_tai_wan_zheng_zhi_e_dou/)
+
+## 江泽民
+- [胡錦濤是好人，但可惜不是好領路人](https://www.histfacts.com/zh-tw/2024/09/zhuan_fang_gao_fa_lin_xia_ta_shi_hao_ren_dan/)
+
 ## 江澤民
 - [王局：如何看待江澤民時代](https://www.histfacts.com/zh-tw/2024/08/how_to_view_era_of_jiang_zemin/)
+- [一言難盡朱鎔基：貳臣、忠臣與能臣（文字整理稿）](https://www.histfacts.com/zh-tw/2024/09/yi_yan_nan_jin_zhu_rong_ji/)
+
+## 潤
+- [“潤”的新選擇：對中國新移民而言，日本或比美國更具吸引力](https://www.histfacts.com/zh-tw/2024/09/run_de_xin_xuan_ze_dui_zhong_guo_xin_yi/)
+
+## 爱国者
+- [沒辦法](https://www.histfacts.com/zh-tw/2024/09/mai_xing_hua_mei_ban_fa/)
+
+## 獨立戰爭
+- [孟加拉人民痛恨的，是特權](https://www.histfacts.com/zh-tw/2024/08/meng_jia_la_ren_min_tong_hen_de_shi_te_quan/)
+
+## 獨裁者
+- [怎樣在2025剷除全球最後獨裁者？](https://www.histfacts.com/zh-tw/2024/09/zen_yang_zai_2025_chan_chu_quan_qiu_zui_hou_du/)
 
 ## 王局
 - [阿嘉活佛：逃離](https://www.histfacts.com/zh-tw/2024/07/awang_living_buddha_escape/)
@@ -450,12 +815,21 @@
 - [王局：如何看待江澤民時代](https://www.histfacts.com/zh-tw/2024/08/how_to_view_era_of_jiang_zemin/)
 - [阿嘉活佛：我作為轉世靈童的上半生（下）](https://www.histfacts.com/zh-tw/2024/07/awang_living_buddha_as_a_reincarnated_child2/)
 - [阿嘉活佛：我作為轉世靈童的上半生（上）](https://www.histfacts.com/zh-tw/2024/07/awang_living_buddha_as_a_reincarnated_child/)
+- [李銳日記爭奪戰,中共為什麼要不惜代價討回李銳日記?(上)](https://www.histfacts.com/zh-tw/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights/)
+- [李銳日記爭奪戰,中共為什麼要不惜代價討回李銳日記?(下)](https://www.histfacts.com/zh-tw/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights_b/)
 
 ## 現實
 - [中國養老金，將於2035年耗盡](https://www.histfacts.com/zh-tw/2024/08/2035_pension_funds_be_depleted/)
 
+## 甩臉子
+- [憑啥宣誓“不對老師甩臉子”，憑啥承諾對霸凌“不拍不錄”](https://www.histfacts.com/zh-tw/2024/09/lao_xiao_za_shuo_ping_sha_xuan_shi_bu_dui_lao/)
+
+## 电动汽车
+- [世界媒體看中國:電動汽車與貿易形勢](https://www.histfacts.com/zh-tw/2024/09/shi_jie_mei_ti_kan_zhong_guo_dian_dong_qi_che/)
+
 ## 看人物
 - [陳雲的三句話：如何塑造中國的政治與經濟格局](https://www.histfacts.com/zh-tw/2024/08/cheng_yun_a/)
+- [一言難盡朱鎔基：貳臣、忠臣與能臣（文字整理稿）](https://www.histfacts.com/zh-tw/2024/09/yi_yan_nan_jin_zhu_rong_ji/)
 - [劉伯承傳：戰略天才與歷史風雲](https://www.histfacts.com/zh-tw/2024/07/liu_bo_cheng_zhuan/)
 - [被遺忘的元帥：劉伯承與權力博弈](https://www.histfacts.com/zh-tw/2024/07/liu_bo_cheng/)
 - [“鮮為人知”的共產黨員趙紫陽](https://www.histfacts.com/zh-tw/2024/07/zhao_zi_yang/)
@@ -464,17 +838,38 @@
 - [江澤民傳：改革開放的踐行者（上）](https://www.histfacts.com/zh-tw/2024/07/jiang_zemin_a/)
 - [鄧小平做對了什麼？](https://www.histfacts.com/zh-tw/2024/08/deng_xiaoping_zuo_dui_le_shenme/)
 - [鄧小平傳：現代中國的塑造者（下）](https://www.histfacts.com/zh-tw/2024/08/deng_xiaoping_b/)
+- [三起三落，鄧小平人生的40個瞬間](https://www.histfacts.com/zh-tw/2024/09/san_qi_san_luo_deng_xiao_ping/)
 - [改變中國歷史軌跡的邓小平](https://www.histfacts.com/zh-tw/2024/08/deng_xiaoping_changing_china's_historical_trajectory/)
 - [鄧小平傳：現代中國的塑造者（上）](https://www.histfacts.com/zh-tw/2024/08/deng_xiaoping_a/)
 - [站在當下，如何客觀評價鄧小平？](https://www.histfacts.com/zh-tw/2024/08/how_to_evaluate_deng_xiaoping/)
 - [林彪傳：一位軍事天才的崛起與隕落（下）](https://www.histfacts.com/zh-tw/2024/07/lin_biao_2/)
 - [林彪傳：一位軍事天才的崛起與隕落（上）](https://www.histfacts.com/zh-tw/2024/07/lin_biao_1/)
 
+## 砸鍋賣鐵
+- [當一座城市決定“砸鍋賣鐵”](https://www.histfacts.com/zh-tw/2024/08/jian_she_xing_yi_jian_dang_yi_zuo_cheng_shi_jue/)
+- [砸鍋賣鐵，關鍵看砸誰的鍋](https://www.histfacts.com/zh-tw/2024/08/a_luo_han_bu_yue_za_guo_mai_tie_guan_jian/)
+- [從住房養老金到砸鍋賣鐵，政策語言應該規範化](https://www.histfacts.com/zh-tw/2024/08/ruo_xin_hao_cong_zhu_fang_yang_lao_jin_dao_za/)
+
+## 社會冷漠
+- [高溫之下的荒誕教育亂象](https://www.histfacts.com/zh-tw/2024/09/gao_wen_zhi_xia_de_huang_dan_jiao_yu_luan_xiang/)
+
 ## 福壽園
 - [地下工作大受影響](https://www.histfacts.com/zh-tw/2024/08/xing_qiu_shang_ye_ping_lun_di_xia_gong_zuo_da/)
 
+## 移民
+- [“潤”的新選擇：對中國新移民而言，日本或比美國更具吸引力](https://www.histfacts.com/zh-tw/2024/09/run_de_xin_xuan_ze_dui_zhong_guo_xin_yi/)
+
+## 程潜
+- [陶鎰萬：下聯是“魚脫網外，潤之成就程潛”](https://www.histfacts.com/zh-tw/2024/09/tao_yi_wan_xia_lian_shi_yu_tuo_wang_wai_run/)
+
+## 篇文章
+- [“貞觀”公衆號被封禁了，我擔心的事發生了](https://www.histfacts.com/zh-tw/2024/09/dong_jian_bao_gao_zhen_guan_gong_zhong_hao_bei_feng/)
+
 ## 經濟學
 - [雷·達利歐：經濟機器如何運作（30分鐘視頻的文字稿）](https://www.histfacts.com/zh-tw/2024/07/how_the_economic_machine_works/)
+
+## 經濟衰退
+- [未來最賺錢的5大趨勢](https://www.histfacts.com/zh-tw/2024/09/wei_lai_zui_zhuan_qian_de_5_da_qu_shi/)
 
 ## 繁体中文
 - [藏傳佛教轉世靈童的由來](https://www.histfacts.com/zh-tw/2024/07/origin_reincarnated_lamas/)
@@ -507,9 +902,9 @@
 - [深入聊聊：為何是山東臨沂出現弓箭傷人惡性事件？](https://www.histfacts.com/zh-tw/2024/08/why_bow_and_arrow_attack_happen_linyi/)
 - [《憾動力》如何利用遺憾促成自我提升](https://www.histfacts.com/zh-tw/2024/08/han_dong_li/)
 - [《巫蠱亂長安》漢武帝晚年的奪嫡暗戰](https://www.histfacts.com/zh-tw/2024/08/wu_gu_luan_chang_an/)
+- [如果從30歲重新開始，將如何選擇投資？股神巴菲特告訴你答案](https://www.histfacts.com/zh-tw/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
 - [巴菲特歷次拋售都有的驚人規律！史無前例大拋售的真相終於揭曉！大危機將至？](https://www.histfacts.com/zh-tw/2024/08/why_did_buffett_sell_stocks/)
 - [【乾貨】期權入門及低風險策略](https://www.histfacts.com/zh-tw/2024/07/introduction_to_options_and_low-risk_strategies/)
-- [如果從30歲重新開始，將如何選擇投資？股神巴菲特告訴你答案](https://www.histfacts.com/zh-tw/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
 - [勞燕東飛｜直面真實的世界](https://www.histfacts.com/zh-tw/2024/08/lao_dongyan_face_reality_world/)
 - [沒有獨立的司法沒有一個人是安全的（下）](https://www.histfacts.com/zh-tw/2024/07/chai_jing_interviews_he_weifang_part2/)
 - [沒有獨立的司法沒有一個人是安全的（上）](https://www.histfacts.com/zh-tw/2024/07/chai_jing_interviews_he_weifang_part1/)
@@ -549,15 +944,94 @@
 - [李錄50歲生日會上的演講：《返璞歸真，尊天命而為之》](https://www.histfacts.com/zh-tw/2024/08/fan_pu_gui_zhen_zun_tian_ming_er_wei_zhi/)
 - [《窮查理寶典》中文版序：書中自有黃金屋](https://www.histfacts.com/zh-tw/2024/08/books_contain_houses_of_gold/)
 
+## 维修
+- [“房屋養老金不要老百姓直接出錢，可不可以理解爲‘要老百姓間接出錢’呢？”](https://www.histfacts.com/zh-tw/2024/09/fang_wu_yang_lao_jin_bu_yao_lao_bai_xing/)
+
+## 美國
+- [“潤”的新選擇：對中國新移民而言，日本或比美國更具吸引力](https://www.histfacts.com/zh-tw/2024/09/run_de_xin_xuan_ze_dui_zhong_guo_xin_yi/)
+
 ## 老梁
 - [藏傳佛教轉世靈童的由來](https://www.histfacts.com/zh-tw/2024/07/origin_reincarnated_lamas/)
+
+## 胡耀邦
+- [不是鄧小平提拔胡耀邦，而是胡耀邦推薦鄧小平](https://www.histfacts.com/zh-tw/2024/08/bu_shi_deng_xiao_ping_ti_ba_hu_yao_bang_er/)
+- [華國鋒是文革後中國歷史性轉變的主要啓動者](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_shi_wen_ge_hou_zhong_guo_li_shi/)
+
+## 胡锦涛
+- [胡錦濤二十大爲何兩次被辱？](https://www.histfacts.com/zh-tw/2024/09/zhuan_fang_gao_fa_lin_hu_jin_tao_er_shi_da/)
+- [胡錦濤是好人，但可惜不是好領路人](https://www.histfacts.com/zh-tw/2024/09/zhuan_fang_gao_fa_lin_xia_ta_shi_hao_ren_dan/)
+
+## 脱网
+- [陶鎰萬：下聯是“魚脫網外，潤之成就程潛”](https://www.histfacts.com/zh-tw/2024/09/tao_yi_wan_xia_lian_shi_yu_tuo_wang_wai_run/)
+
+## 腐敗
+- [中國內部潰爛的狀態評估](https://www.histfacts.com/zh-tw/2024/08/zhong_guo_nei_bu_kui_lan_zhuang_tai_ping_gu/)
+
+## 自取其辱
+- [沒辦法](https://www.histfacts.com/zh-tw/2024/09/mai_xing_hua_mei_ban_fa/)
+
+## 自由市場
+- [市場經濟：亞當·斯密的萬能的手](https://www.histfacts.com/zh-tw/2024/09/jiang_wen_ming_shi_chang_jing_ji_1_shi_mi_si/)
+
+## 薪酬
+- [月薪三萬的陸家嘴打工人，摳摳搜搜](https://www.histfacts.com/zh-tw/2024/09/meng_ma_gong_zuo_shi_yue_xin_san_wan_de_lu/)
+
+## 警察
+- [第14天坐牢，無人知曉他何等罪名](https://www.histfacts.com/zh-tw/2024/09/qing_kuang_you_dian_fu_za_di_14_tian_zuo_lao/)
 
 ## 讀書
 - [《憾動力》如何利用遺憾促成自我提升](https://www.histfacts.com/zh-tw/2024/08/han_dong_li/)
 - [《巫蠱亂長安》漢武帝晚年的奪嫡暗戰](https://www.histfacts.com/zh-tw/2024/08/wu_gu_luan_chang_an/)
 
+## 谷爱凌
+- [谷愛凌：從天才少女到雙面人“谷聖”](https://www.histfacts.com/zh-tw/2024/09/na_ge_ng_gu_ai_ling_cong_tian_cai_shao_nv/)
+
+## 貞觀文章
+- [第一次課，講到了被封號的貞觀文章](https://www.histfacts.com/zh-tw/2024/09/tang_shi_san_bai_shou_di_yi_ci_ke_jiang_dao/)
+
+## 賣杏花
+- [沒辦法](https://www.histfacts.com/zh-tw/2024/09/mai_xing_hua_mei_ban_fa/)
+
 ## 賦紅碼
 - [你給儲戶賦紅碼，我們寫文秒被刪](https://www.histfacts.com/zh-tw/2024/08/qiu_ran_ke_hao_mang_ni_gei_chu_hu_fu_hong/)
+
+## 贞观
+- [“貞觀”公衆號被封禁了，我擔心的事發生了](https://www.histfacts.com/zh-tw/2024/09/dong_jian_bao_gao_zhen_guan_gong_zhong_hao_bei_feng/)
+
+## 贷款
+- [中國內需不振轉向非洲買家，中歐競爭給安哥拉帶來機會](https://www.histfacts.com/zh-tw/2024/09/zhong_guo_nei_xu_bu_zhen_zhuan_xiang_fei_zhou_mai/)
+
+## 贸易
+- [世界媒體看中國:電動汽車與貿易形勢](https://www.histfacts.com/zh-tw/2024/09/shi_jie_mei_ti_kan_zhong_guo_dian_dong_qi_che/)
+
+## 赖清德
+- [松仁：賴清德輿中國爲領土完整應去收復被俄羅斯佔據的大清領土（附俄回應）](https://www.histfacts.com/zh-tw/2024/09/song_ren_lai_qing_de_yu_zhong_guo_wei_ling_tu/)
+
+## 足球
+- [辯證地看待0:7](https://www.histfacts.com/zh-tw/2024/09/mai_xing_hua_bian_zheng_di_kan_dai_0_7/)
+
+## 路虎女
+- [青島路虎女被製成車貼，這是城市的恥辱印記](https://www.histfacts.com/zh-tw/2024/09/lao_xiao_za_shuo_qing_dao_lu_hu_nv_bei_zhi/)
+
+## 路透社
+- [聯合國人權報告發表二週年，各方對新疆狀況感到失望，敦促北京停止迫害維吾爾人](https://www.histfacts.com/zh-tw/2024/09/lian_he_guo_ren_quan_bao_gao_fa_biao_er_zhou/)
+
+## 车贴
+- [青島路虎女被製成車貼，這是城市的恥辱印記](https://www.histfacts.com/zh-tw/2024/09/lao_xiao_za_shuo_qing_dao_lu_hu_nv_bei_zhi/)
+
+## 進口藥
+- [很多進口藥，悄無聲息地消失了](https://www.histfacts.com/zh-tw/2024/09/chang_shi_liu_tong_chu_hen_duo_jin_kou_yao_qiao/)
+
+## 邓小平
+- [華國鋒按部就班請出鄧小平，鄧小平迫不及待趕走華國鋒](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_an_bu_jiu_ban_qing_chu_deng_xiao/)
+- [不是鄧小平提拔胡耀邦，而是胡耀邦推薦鄧小平](https://www.histfacts.com/zh-tw/2024/08/bu_shi_deng_xiao_ping_ti_ba_hu_yao_bang_er/)
+- [華國鋒是文革後中國歷史性轉變的主要啓動者](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_shi_wen_ge_hou_zhong_guo_li_shi/)
+- [華國鋒的歷史功績不應貶低，他的歷史罪惡也不容饒恕](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_de_li_shi_gong_ji_bu_ying_bian/)
+
+## 鄧小平
+- [一言難盡朱鎔基：貳臣、忠臣與能臣（文字整理稿）](https://www.histfacts.com/zh-tw/2024/09/yi_yan_nan_jin_zhu_rong_ji/)
+- [三起三落，鄧小平人生的40個瞬間](https://www.histfacts.com/zh-tw/2024/09/san_qi_san_luo_deng_xiao_ping/)
+- [周恩來鄧小平林彪對毛澤東壓力的不同態度](https://www.histfacts.com/zh-tw/2024/09/zhou_en_lai_deng_xiao_ping_lin_biao_dui_mao_ze/)
 
 ## 鐵頭
 - [鐵頭的崛起：流氓愛國就可以暢通無阻？](https://www.histfacts.com/zh-tw/2024/08/zhang_3_feng_de_shi_jie_tie_tou_de_jue_qi/)
@@ -570,8 +1044,56 @@
 - [羅榮桓：關於圍困長春的報告（1948.09.09）](https://www.histfacts.com/zh-tw/2024/08/guan_yu_wei_kun_chang_chun_bao_gao/)
 - [屍骨累累的解放：長春圍城](https://www.histfacts.com/zh-tw/2024/07/the_liberation_of_the_changchun_besieged/)
 
+## 阮铭
+- [華國鋒的歷史功績不應貶低，他的歷史罪惡也不容饒恕](https://www.histfacts.com/zh-tw/2024/08/hua_guo_feng_de_li_shi_gong_ji_bu_ying_bian/)
+
+## 阴暗面
+- [譚秦東：竟是我的校友舉報了我](https://www.histfacts.com/zh-tw/2024/09/tan_qin_dong_he_ta_peng_you_men_tan_qin_dong/)
+
+## 阿奇
+- [很多進口藥，悄無聲息地消失了](https://www.histfacts.com/zh-tw/2024/09/chang_shi_liu_tong_chu_hen_duo_jin_kou_yao_qiao/)
+
+## 陆游
+- [陶鎰萬：下聯是“魚脫網外，潤之成就程潛”](https://www.histfacts.com/zh-tw/2024/09/tao_yi_wan_xia_lian_shi_yu_tuo_wang_wai_run/)
+
+## 陈寅恪
+- [斯文何以掃地一一中國知識分子思想改造的特種煉獄](https://www.histfacts.com/zh-tw/2024/08/zi_zhong_yun_si_wen_he_yi_sao_di_yi_yi/)
+
+## 陳雲
+- [一言難盡朱鎔基：貳臣、忠臣與能臣（文字整理稿）](https://www.histfacts.com/zh-tw/2024/09/yi_yan_nan_jin_zhu_rong_ji/)
+
+## 電動汽車
+- [中國內需不振轉向非洲買家，中歐競爭給安哥拉帶來機會](https://www.histfacts.com/zh-tw/2024/09/zhong_guo_nei_xu_bu_zhen_zhuan_xiang_fei_zhou_mai/)
+
+## 霉素
+- [很多進口藥，悄無聲息地消失了](https://www.histfacts.com/zh-tw/2024/09/chang_shi_liu_tong_chu_hen_duo_jin_kou_yao_qiao/)
+
+## 霍克
+- [他離希特勒有多遠?](https://www.histfacts.com/zh-tw/2024/09/ta_li_xi_te_lei_you_duo_yuan_/)
+
+## 霸凌
+- [憑啥宣誓“不對老師甩臉子”，憑啥承諾對霸凌“不拍不錄”](https://www.histfacts.com/zh-tw/2024/09/lao_xiao_za_shuo_ping_sha_xuan_shi_bu_dui_lao/)
+
+## 青岛
+- [青島路虎女被製成車貼，這是城市的恥辱印記](https://www.histfacts.com/zh-tw/2024/09/lao_xiao_za_shuo_qing_dao_lu_hu_nv_bei_zhi/)
+
 ## 靖國神社
 - [鐵頭的崛起：流氓愛國就可以暢通無阻？](https://www.histfacts.com/zh-tw/2024/08/zhang_3_feng_de_shi_jie_tie_tou_de_jue_qi/)
+
+## 非洲
+- [中國內需不振轉向非洲買家，中歐競爭給安哥拉帶來機會](https://www.histfacts.com/zh-tw/2024/09/zhong_guo_nei_xu_bu_zhen_zhuan_xiang_fei_zhou_mai/)
+
+## 預製菜
+- [底層互害，越來越魔幻了](https://www.histfacts.com/zh-tw/2024/09/jian_ke_xie_zi_de_di_fang_di_ceng_hu_hai/)
+
+## 领养
+- [中國停止國際收養，棄嬰的逆天改命機會也沒了](https://www.histfacts.com/zh-tw/2024/09/huan_xi_sha_du_fu_zhong_guo_ting_zhi_guo_ji/)
+
+## 高伐林
+- [胡錦濤二十大爲何兩次被辱？](https://www.histfacts.com/zh-tw/2024/09/zhuan_fang_gao_fa_lin_hu_jin_tao_er_shi_da/)
+
+## 高薪
+- [月薪三萬的陸家嘴打工人，摳摳搜搜](https://www.histfacts.com/zh-tw/2024/09/meng_ma_gong_zuo_shi_yue_xin_san_wan_de_lu/)
 
 ## 齊天大聖
 - [將孫悟空定位爲反抗英雄，纔是對他的黑化](https://www.histfacts.com/zh-tw/2024/08/hou_dai_liao_zhai_jiang_sun_wu_kong_ding_wei_wei/)

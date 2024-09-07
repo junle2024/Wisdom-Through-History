@@ -30,6 +30,8 @@
 ## History Narrates
 - [Wang Sir's News Talk | How to view the era of Jiang Zemin](https://www.histfacts.com/en/2024/08/how_to_view_era_of_jiang_zemin/)
 - [Awang Living Buddha:My First Half Life as a Reincarnated Child](https://www.histfacts.com/en/2024/07/awang_living_buddha_as_a_reincarnated_child/)
+- [State of Play in China:Why the CCP Desperately Wants to Reclaim Li Rui's Diary Rights? (Part 1)](https://www.histfacts.com/en/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights/)
+- [State of Play in China:Why the CCP Desperately Wants to Reclaim Li Rui's Diary Rights? (Part 2)](https://www.histfacts.com/en/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights_b/)
 - [Mao Zedong and Lin Biao:The Mystery of the First Faction's Defection(Part 1)](https://www.histfacts.com/en/2024/07/mao_zedong_and_lin_biao_1/)
 - [Mao Zedong and Lin Biao:The Mystery of the First Faction's Defection(Part 3)](https://www.histfacts.com/en/2024/07/mao_zedong_and_lin_biao_3/)
 - [Mao Zedong and Lin Biao:The Mystery of the First Faction's Defection(Part 2)](https://www.histfacts.com/en/2024/07/mao_zedong_and_lin_biao_2/)
@@ -57,12 +59,15 @@
 - [Talk 1:Harvard School Commencement Speech](https://www.histfacts.com/en/2024/07/charles_xi_lectures_01/)
 - [Talk 2:A Lesson on Elementary, Worldly Wisdom as It Relates to Investment Management and Business](https://www.histfacts.com/en/2024/07/charles_xi_lectures_02/)
 
+## Recommended Articles
+- [Buffett's 1999 Speech:Do the Things That Excite Us](https://www.histfacts.com/en/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
+
 ## Understanding Economics
 - [Ray Dalio:How the Economic Machine Works（The transcript of a 30-minute video）](https://www.histfacts.com/en/2024/07/how_the_economic_machine_works/)
 
 ## Wealthy Life
-- [The Astonishing Pattern in Buffett's Past Sell-Offs! The Truth Behind the Unprecedented Massive Sell-Off Finally Revealed! Is a Major Crisis Imminent?](https://www.histfacts.com/en/2024/08/why_did_buffett_sell_stocks/)
 - [Buffett reveals ideal investments if starting over at 30](https://www.histfacts.com/en/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
+- [The Astonishing Pattern in Buffett's Past Sell-Offs! The Truth Behind the Unprecedented Massive Sell-Off Finally Revealed! Is a Major Crisis Imminent?](https://www.histfacts.com/en/2024/08/why_did_buffett_sell_stocks/)
 - [[Essential Knowledge] Introduction to Options and Low-Risk Strategies](https://www.histfacts.com/en/2024/07/introduction_to_options_and_low-risk_strategies/)
 
 ## insight

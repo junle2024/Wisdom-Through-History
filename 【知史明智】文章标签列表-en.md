@@ -14,6 +14,9 @@
 - [The Decline of Prosperity:China's Economy Under Siege (Understanding This Can Benefit You for 30 Years)](https://www.histfacts.com/en/2024/07/the_besieged_chinese_economy/)
 - [Shen Kui & Lao Dongyan | Opinions on "Net Certificate and Net ID"](https://www.histfacts.com/en/2024/08/china_internet_certificate_number/)
 
+## Buffett
+- [Buffett's 1999 Speech:Do the Things That Excite Us](https://www.histfacts.com/en/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
+
 ## Business
 - [What a second term for Trump would mean for business,in his own words](https://www.histfacts.com/en/2024/07/trump_second_term_mean/)
 
@@ -33,6 +36,8 @@
 ## English
 - [Awang Living Buddha:My First Half Life as a Reincarnated Child](https://www.histfacts.com/en/2024/07/awang_living_buddha_as_a_reincarnated_child/)
 - [Chen Yun's Three Statements:Shaping China's Political and Economic Landscape](https://www.histfacts.com/en/2024/08/cheng_yun_a/)
+- [State of Play in China:Why the CCP Desperately Wants to Reclaim Li Rui's Diary Rights? (Part 1)](https://www.histfacts.com/en/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights/)
+- [State of Play in China:Why the CCP Desperately Wants to Reclaim Li Rui's Diary Rights? (Part 2)](https://www.histfacts.com/en/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights_b/)
 - [Deng Xiaoping:The Architect of Modern China (part 2)](https://www.histfacts.com/en/2024/08/deng_xiaoping_b/)
 - [Deng Xiaoping:The Architect of Modern China (part 1)](https://www.histfacts.com/en/2024/08/deng_xiaoping_a/)
 - [Lin Biao:The Rise and Fall of a Military Genius (Part 1)](https://www.histfacts.com/en/2024/07/lin_biao_1/)
@@ -45,11 +50,11 @@
 - [Why Are So Many People Homeless?](https://www.histfacts.com/en/2024/08/why_are_so_many_people_homeless/)
 - [Talk 1:Harvard School Commencement Speech](https://www.histfacts.com/en/2024/07/charles_xi_lectures_01/)
 - [Talk 2:A Lesson on Elementary, Worldly Wisdom as It Relates to Investment Management and Business](https://www.histfacts.com/en/2024/07/charles_xi_lectures_02/)
+- [Buffett reveals ideal investments if starting over at 30](https://www.histfacts.com/en/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
 - [Ray Dalio:How the Economic Machine Works（The transcript of a 30-minute video）](https://www.histfacts.com/en/2024/07/how_the_economic_machine_works/)
 - [Preface to the Chinese Edition of Poor Charlie's Almanack:There is a Treasure House in Books](https://www.histfacts.com/en/2024/08/books_contain_houses_of_gold/)
 - [Li Lu's 50th Birthday Speech:"Return to Simplicity, Honor Destiny, and Act Accordingly"](https://www.histfacts.com/en/2024/08/fan_pu_gui_zhen_zun_tian_ming_er_wei_zhi/)
 - [The Astonishing Pattern in Buffett's Past Sell-Offs! The Truth Behind the Unprecedented Massive Sell-Off Finally Revealed! Is a Major Crisis Imminent?](https://www.histfacts.com/en/2024/08/why_did_buffett_sell_stocks/)
-- [Buffett reveals ideal investments if starting over at 30](https://www.histfacts.com/en/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
 - [[Essential Knowledge] Introduction to Options and Low-Risk Strategies](https://www.histfacts.com/en/2024/07/introduction_to_options_and_low-risk_strategies/)
 - [Gao Yaojie:A Lifelong Journey of Upholding Truth](https://www.histfacts.com/en/2024/07/gao_yaojie_a_lifelong_journey_of_upholding_truth/)
 - [How to Get Through Historical Wasted Time](https://www.histfacts.com/en/2024/07/how_to_get_through_historical_wasted_time/)
@@ -75,8 +80,8 @@
 - [How to Get Through Historical Wasted Time](https://www.histfacts.com/en/2024/07/how_to_get_through_historical_wasted_time/)
 
 ## Investment Strategy
-- [The Astonishing Pattern in Buffett's Past Sell-Offs! The Truth Behind the Unprecedented Massive Sell-Off Finally Revealed! Is a Major Crisis Imminent?](https://www.histfacts.com/en/2024/08/why_did_buffett_sell_stocks/)
 - [Buffett reveals ideal investments if starting over at 30](https://www.histfacts.com/en/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
+- [The Astonishing Pattern in Buffett's Past Sell-Offs! The Truth Behind the Unprecedented Massive Sell-Off Finally Revealed! Is a Major Crisis Imminent?](https://www.histfacts.com/en/2024/08/why_did_buffett_sell_stocks/)
 - [[Essential Knowledge] Introduction to Options and Low-Risk Strategies](https://www.histfacts.com/en/2024/07/introduction_to_options_and_low-risk_strategies/)
 
 ## Investment Wisdom
@@ -89,6 +94,9 @@
 ## USA
 - [Homelessness in America:Statistics, Analysis, and Trends](https://www.histfacts.com/en/2024/08/homelessness_in_america/)
 - [Why Are So Many People Homeless?](https://www.histfacts.com/en/2024/08/why_are_so_many_people_homeless/)
+
+## WeChat
+- [Buffett's 1999 Speech:Do the Things That Excite Us](https://www.histfacts.com/en/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
 
 ## erye story
 - [Mao Zedong and Lin Biao:The Mystery of the First Faction's Defection(Part 1)](https://www.histfacts.com/en/2024/07/mao_zedong_and_lin_biao_1/)
@@ -111,4 +119,6 @@
 ## wangju
 - [Wang Sir's News Talk | How to view the era of Jiang Zemin](https://www.histfacts.com/en/2024/08/how_to_view_era_of_jiang_zemin/)
 - [Awang Living Buddha:My First Half Life as a Reincarnated Child](https://www.histfacts.com/en/2024/07/awang_living_buddha_as_a_reincarnated_child/)
+- [State of Play in China:Why the CCP Desperately Wants to Reclaim Li Rui's Diary Rights? (Part 1)](https://www.histfacts.com/en/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights/)
+- [State of Play in China:Why the CCP Desperately Wants to Reclaim Li Rui's Diary Rights? (Part 2)](https://www.histfacts.com/en/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights_b/)
 

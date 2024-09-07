@@ -8,19 +8,46 @@
 - [【分析】中国试行网号、网证，是否会成为新型健康码？](https://www.histfacts.com/2024/08/could_network_id_become_new_health_code/)
 
 ## 404文库
+- [谭秦东：竟是我的校友举报了我](https://www.histfacts.com/2024/09/tan_qin_dong_he_ta_peng_you_men_tan_qin_dong/)
 - [你给储户赋红码，我们写文秒被删](https://www.histfacts.com/2024/08/qiu_ran_ke_hao_mang_ni_gei_chu_hu_fu_hong/)
+- [从住房养老金到砸锅卖铁，政策语言应该规范化](https://www.histfacts.com/2024/08/ruo_xin_hao_cong_zhu_fang_yang_lao_jin_dao_za/)
+
+## 404文档
+- [没办法](https://www.histfacts.com/2024/09/mai_xing_hua_mei_ban_fa/)
+- [住在办公室的人](https://www.histfacts.com/2024/09/mei_ri_ren_wu_zhu_zai_ban_gong_shi_de_ren/)
+
+## 404档案
+- [俄乌战争逻辑：当年日本武装攻占中国，不是“侵略”是“去军事化”？](https://www.histfacts.com/2024/09/fei_chang_dao_guo_e_wu_zhan_zheng_luo_ji_dang/)
+- [对话李佩霞案家属委托律师：询问能否依法依规安排会见未被回应](https://www.histfacts.com/2024/08/fa_du_law_dui_hua_li_pei_xia_an_jia_shu/)
+- [太原公安下一步应该就是找我了……以这种方式给自己的律师职业画上句号，是最圆满的事情。](https://www.histfacts.com/2024/08/yi_sheng_hua_lv_shi_tai_yuan_gong_an_xia_yi/)
+
+## 万维博客
+- [台湾政治恶斗的根深蒂固和第三势力泡沫化的魔咒](https://www.histfacts.com/2024/09/ke_wen_zhe_bei_bu_tai_wan_zheng_zhi_e_dou/)
+- [风雨飘摇的1976年：谣言漫天、大事成堆](https://www.histfacts.com/2024/09/feng_yu_piao_yao_de_1976_nian_yao_yan_man_tian/)
+- [他离希特勒有多远?](https://www.histfacts.com/2024/09/ta_li_xi_te_lei_you_duo_yuan_/)
+- [周恩来邓小平林彪对毛泽东压力的不同态度](https://www.histfacts.com/2024/09/zhou_en_lai_deng_xiao_ping_lin_biao_dui_mao_ze/)
+- [胡锦涛二十大为何两次被辱？](https://www.histfacts.com/2024/09/zhuan_fang_gao_fa_lin_hu_jin_tao_er_shi_da/)
+- [怎样在2025铲除全球最后独裁者？](https://www.histfacts.com/2024/09/zen_yang_zai_2025_chan_chu_quan_qiu_zui_hou_du/)
+- [胡锦涛是好人，但可惜不是好领路人](https://www.histfacts.com/2024/09/zhuan_fang_gao_fa_lin_xia_ta_shi_hao_ren_dan/)
+- [华国锋按部就班请出邓小平，邓小平迫不及待赶走华国锋](https://www.histfacts.com/2024/08/hua_guo_feng_an_bu_jiu_ban_qing_chu_deng_xiao/)
+- [不是邓小平提拔胡耀邦，而是胡耀邦推荐邓小平](https://www.histfacts.com/2024/08/bu_shi_deng_xiao_ping_ti_ba_hu_yao_bang_er/)
+- [华国锋的历史功绩不应贬低，他的历史罪恶也不容饶恕](https://www.histfacts.com/2024/08/hua_guo_feng_de_li_shi_gong_ji_bu_ying_bian/)
+- [华国锋是文革后中国历史性转变的主要启动者](https://www.histfacts.com/2024/08/hua_guo_feng_shi_wen_ge_hou_zhong_guo_li_shi/)
+- [文革帮凶](https://www.histfacts.com/2024/08/wen_ge_zui_da_shou_hai_zhe_de_ling_yi_ge/)
 
 ## 人性探索
 - [这世上最难的事，是向一群傻 x 自证清白](https://www.histfacts.com/2024/07/the_hardest_thing_in_this_world/)
 
 ## 人物传记
 - [陈云的三句话：如何塑造中国的政治与经济格局](https://www.histfacts.com/2024/08/cheng_yun_a/)
+- [一言难尽朱镕基：贰臣、忠臣与能臣（文字整理稿）](https://www.histfacts.com/2024/09/yi_yan_nan_jin_zhu_rong_ji/)
 - [刘伯承传：战略天才与历史风云](https://www.histfacts.com/2024/07/liu_bo_cheng_zhuan/)
 - [被遗忘的元帅：刘伯承与权力博弈](https://www.histfacts.com/2024/07/liu_bo_cheng/)
 - [赵紫阳传：变革时代的中国领导者](https://www.histfacts.com/2024/07/zhao_zi_yang_wiki/)
 - [“鲜为人知”的共产党员赵紫阳](https://www.histfacts.com/2024/07/zhao_zi_yang/)
 - [江泽民传：改革开放的践行者（下)](https://www.histfacts.com/2024/07/jiang_zemin_b/)
 - [江泽民传：改革开放的践行者（上)](https://www.histfacts.com/2024/07/jiang_zemin_a/)
+- [三起三落，邓小平人生的40个瞬间](https://www.histfacts.com/2024/09/san_qi_san_luo_deng_xiao_ping/)
 - [邓小平做对了什么？](https://www.histfacts.com/2024/08/deng_xiaoping_zuo_dui_le_shenme/)
 - [邓小平传：现代中国的塑造者（下）](https://www.histfacts.com/2024/08/deng_xiaoping_b/)
 - [改变中国历史轨迹的邓小平](https://www.histfacts.com/2024/08/deng_xiaoping_changing_china's_historical_trajectory/)
@@ -76,8 +103,12 @@
 - [十年砍柴｜孙悟空：在黑童话里做了个璀璨的梦](https://www.histfacts.com/2024/08/sun_wu_kong_zuo_le_ge_cui_can_de_meng/)
 - [全球追讨许家印](https://www.histfacts.com/2024/08/quan_qiu_zhui_tao_xu_jia_yin/)
 - [刘晓蕾｜《西游记》易改，《红楼梦》难拍](https://www.histfacts.com/2024/08/xi_you_ji_yi_gai_hong_lou_meng_nan_pai/)
+- [孟加拉人民痛恨的，是特权](https://www.histfacts.com/2024/08/meng_jia_la_ren_min_tong_hen_de_shi_te_quan/)
 - [留给许家印家族的时间不多了](https://www.histfacts.com/2024/08/liu_gei_xu_jia_yin_shi_jian_bu_duo/)
 - [《黑神话：悟空》到底有啥意义？](https://www.histfacts.com/2024/08/hei_shen_hua_wu_kong_dao_di_you_sha_yi_yi/)
+- [未来最赚钱的5大趋势](https://www.histfacts.com/2024/09/wei_lai_zui_zhuan_qian_de_5_da_qu_shi/)
+- [高温之下的荒诞教育乱象](https://www.histfacts.com/2024/09/gao_wen_zhi_xia_de_huang_dan_jiao_yu_luan_xiang/)
+- [巴菲特1999年演讲：去做那些让我们感到兴奋的事情](https://www.histfacts.com/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
 
 ## 懂点经济学
 - [雷·达利欧：经济机器如何运作（30分钟视频的文字稿）](https://www.histfacts.com/2024/07/how_the_economic_machine_works/)
@@ -91,6 +122,17 @@
 - [再看《北京人在纽约》：一部时代镜像下的移民反思](https://www.histfacts.com/2024/07/reflections_on_immigration/)
 
 ## 数字时代
+- [联合国人权报告发表二周年，各方对新疆状况感到失望，敦促北京停止迫害维吾尔人](https://www.histfacts.com/2024/09/lian_he_guo_ren_quan_bao_gao_fa_biao_er_zhou/)
+- [中国“社会火山”正在酝酿分析：最怕底层互害](https://www.histfacts.com/2024/08/zhong_guo_she_hui_huo_shan_zheng_zai_yun_niang_fen/)
+- [“润”的新选择：对中国新移民而言，日本或比美国更具吸引力](https://www.histfacts.com/2024/09/run_de_xin_xuan_ze_dui_zhong_guo_xin_yi/)
+- [中国内需不振转向非洲买家，中欧竞争给安哥拉带来机会](https://www.histfacts.com/2024/09/zhong_guo_nei_xu_bu_zhen_zhuan_xiang_fei_zhou_mai/)
+- [世界媒体看中国:电动汽车与贸易形势](https://www.histfacts.com/2024/09/shi_jie_mei_ti_kan_zhong_guo_dian_dong_qi_che/)
+- [辩证地看待0:7](https://www.histfacts.com/2024/09/mai_xing_hua_bian_zheng_di_kan_dai_0_7/)
+- [八宗罪！一律所向律协发函：申请退出律协](https://www.histfacts.com/2024/09/fa_gui_zhi_nan_ba_zong_zui_yi_lv_suo_xiang/)
+- [中国停止国际收养，弃婴的逆天改命机会也没了](https://www.histfacts.com/2024/09/huan_xi_sha_du_fu_zhong_guo_ting_zhi_guo_ji/)
+- [万万没想到，会被省纪委约见](https://www.histfacts.com/2024/09/yi_zhe_chu_wan_wan_mei_xiang_dao_hui_bei_sheng/)
+- [底层互害，越来越魔幻了](https://www.histfacts.com/2024/09/jian_ke_xie_zi_de_di_fang_di_ceng_hu_hai/)
+- [月薪三万的陆家嘴打工人，抠抠搜搜](https://www.histfacts.com/2024/09/meng_ma_gong_zuo_shi_yue_xin_san_wan_de_lu/)
 - [关于房屋养老金，还有几个问题没说清](https://www.histfacts.com/2024/08/si_huan_qing_nian_guan_yu_fang_wu_yang_lao_jin/)
 - [谷爱凌还是没忍住](https://www.histfacts.com/2024/08/liu_shen_lei_lei_du_jin_yong_gu_ai_ling_hai/)
 - [给储户赋红码被处分的女官员，已任郑州文旅局一把手](https://www.histfacts.com/2024/08/zong_lan_xin_wen_gei_chu_hu_fu_hong_ma_bei/)
@@ -101,6 +143,10 @@
 - [“历史的垃圾时间”是什么梗？](https://www.histfacts.com/2024/08/li_shi_de_la_ji_shi_jian_shi_shen_me/)
 - [“公开，平等，竞争，择优”是基本准则？不如说“公开，背景，内定，择亲”是基本准则](https://www.histfacts.com/2024/08/gong_kai_ping_deng_jing_zheng_ze_you_shi_ji/)
 - [让自己人先走](https://www.histfacts.com/2024/08/bao_you_qu_rang_zi_ji_ren_xian_zou/)
+- [当一座城市决定“砸锅卖铁”](https://www.histfacts.com/2024/08/jian_she_xing_yi_jian_dang_yi_zuo_cheng_shi_jue/)
+- [作为一个小人物，当下如何自处？](https://www.histfacts.com/2024/08/yi_zhe_chao_xin_zuo_wei_yi_ge_xiao_ren_wu/)
+- [一个基层科员的官场修养](https://www.histfacts.com/2024/08/zheng_mian_lian_jie_yi_ge_ji_ceng_ke_yuan_de/)
+- [最后一轮暴涨](https://www.histfacts.com/2024/08/yi_zuo_du_li_wu_zui_hou_yi_lun_bao_zhang/)
 - [那个攻击奥运冠军的体育记者](https://www.histfacts.com/2024/08/du_song_shi_de_zhao_da_pang_na_ge_gong_ji/)
 - [给《黑神话：悟空》打8分的IGN编辑：别骂我祖宗，太疯狂了！](https://www.histfacts.com/2024/08/you_min_xing_kong_gei_hei_shen_hua_wu_kong_da/)
 - [是谁杀死了那个出租公寓里的外地女孩？](https://www.histfacts.com/2024/08/chang_shi_liu_tong_chu_shi_shui_sha_si_le_na/)
@@ -122,6 +168,15 @@
 - [铁头的崛起：流氓爱国就可以畅通无阻？](https://www.histfacts.com/2024/08/zhang_3_feng_de_shi_jie_tie_tou_de_jue_qi/)
 - [柴静：这种震耳欲聋的沉默何尝不是现在这个时代的写照](https://www.histfacts.com/2024/08/zhe_zhong_zhen_er_yu_long_de_chen_mo_he/)
 - [地下工作大受影响](https://www.histfacts.com/2024/08/xing_qiu_shang_ye_ping_lun_di_xia_gong_zuo_da/)
+- [“房屋养老金不要老百姓直接出钱，可不可以理解为‘要老百姓间接出钱’呢？”](https://www.histfacts.com/2024/09/fang_wu_yang_lao_jin_bu_yao_lao_bai_xing/)
+- [让我感到羞愧的，不是中国足球](https://www.histfacts.com/2024/09/guan_ren_sui_bi_rang_wo_gan_dao_xiu_kui_de/)
+- [第一次课，讲到了被封号的贞观文章](https://www.histfacts.com/2024/09/tang_shi_san_bai_shou_di_yi_ci_ke_jiang_dao/)
+- [谷爱凌：从天才少女到双面人“谷圣”](https://www.histfacts.com/2024/09/na_ge_ng_gu_ai_ling_cong_tian_cai_shao_nv/)
+- [第14天坐牢，无人知晓他何等罪名](https://www.histfacts.com/2024/09/qing_kuang_you_dian_fu_za_di_14_tian_zuo_lao/)
+- [凭啥宣誓“不对老师甩脸子”，凭啥承诺对霸凌“不拍不录”](https://www.histfacts.com/2024/09/lao_xiao_za_shuo_ping_sha_xuan_shi_bu_dui_lao/)
+- [很多进口药，悄无声息地消失了](https://www.histfacts.com/2024/09/chang_shi_liu_tong_chu_hen_duo_jin_kou_yao_qiao/)
+- [“贞观”公众号被封禁了，我担心的事发生了](https://www.histfacts.com/2024/09/dong_jian_bao_gao_zhen_guan_gong_zhong_hao_bei_feng/)
+- [青岛路虎女被制成车贴，这是城市的耻辱印记](https://www.histfacts.com/2024/09/lao_xiao_za_shuo_qing_dao_lu_hu_nv_bei_zhi/)
 - [正告谷爱凌：你口中的“黑子”，为国家做了什么？](https://www.histfacts.com/2024/08/mu_qi_shuo_zheng_gao_gu_ai_ling_ni_kou_zhong/)
 - [《黑神话：悟空》主创团队“游戏科学”性别歧视争议事件梳理](https://www.histfacts.com/2024/08/dou_ban_wang_you_hei_shen_hua_wu_kong_zhu_chuang/)
 - [赋红码的张书记，重出江湖](https://www.histfacts.com/2024/08/liang_jian_fu_hong_ma_de_zhang_shu_ji_chong_chu/)
@@ -129,6 +184,9 @@
 - [王五四：人们需要一个叛逆的黑悟空，最好是体制内的](https://www.histfacts.com/2024/08/xin_xin_mo_cun_wang_wu_si_ren_men_xu_yao/)
 - [全红婵和谷爱凌](https://www.histfacts.com/2024/08/wei_zhou_quan_hong_chan_he_gu_ai_ling/)
 - [“外地女孩死在出租屋”的争议，我们到底该关注什么](https://www.histfacts.com/2024/08/feng_sheng_opinion_wai_di_nv_hai_si_zai_chu_zu/)
+- [北戴河会后的乱象-中国的“大跃退”开始了](https://www.histfacts.com/2024/08/pu_huang_yu_shuo_bei_dai_he_hui_hou_de_luan/)
+- [砸锅卖铁，关键看砸谁的锅](https://www.histfacts.com/2024/08/a_luo_han_bu_yue_za_guo_mai_tie_guan_jian/)
+- [张展赴甘肃营救张盼成后失联](https://www.histfacts.com/2024/08/wei_quan_wang_zhang_zhan_fu_gan_su_ying_jiu_zhang/)
 - [全国就2辆罐车混运化工食用油，被记者精准发现了？](https://www.histfacts.com/2024/08/jian_she_xing_yi_jian_quan_guo_jiu_2_liang_guan/)
 
 ## 柴静访谈
@@ -149,6 +207,8 @@
 - [王局：如何看待江泽民时代(文字版)](https://www.histfacts.com/2024/08/how_to_view_era_of_jiang_zemin/)
 - [阿嘉活佛：我作为转世灵童的上半生（下）](https://www.histfacts.com/2024/07/awang_living_buddha_as_a_reincarnated_child2/)
 - [阿嘉活佛：我作为转世灵童的上半生（上）](https://www.histfacts.com/2024/07/awang_living_buddha_as_a_reincarnated_child/)
+- [李锐日记争夺战,中共为什么要不惜代价讨回李锐日记?(上)](https://www.histfacts.com/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights/)
+- [李锐日记争夺战,中共为什么要不惜代价讨回李锐日记?(下)](https://www.histfacts.com/2024/09/why_the_ccp_reclaim_li_rui's_diary_rights_b/)
 
 ## 直面当下
 - [劳燕东飞｜直面真实的世界](https://www.histfacts.com/2024/08/lao_dongyan_face_reality_world/)
@@ -166,7 +226,13 @@
 - [美国为什么现在有那么多流浪汉？(知乎高赞)](https://www.histfacts.com/2024/08/why_so_many_homeless_in_america/)
 - [深入聊聊：为何是山东临沂出现弓箭伤人恶性事件？](https://www.histfacts.com/2024/08/why_bow_and_arrow_attack_happen_linyi/)
 
+## 评论文章
+- [中国内部溃烂的状态评估](https://www.histfacts.com/2024/08/zhong_guo_nei_bu_kui_lan_zhuang_tai_ping_gu/)
+
 ## 谈古论今
+- [松仁：赖清德舆中国为领土完整应去收复被俄罗斯占据的大清领土（附俄回应）](https://www.histfacts.com/2024/09/song_ren_lai_qing_de_yu_zhong_guo_wei_ling_tu/)
+- [陶镒万：下联是“鱼脱网外，润之成就程潜”](https://www.histfacts.com/2024/09/tao_yi_wan_xia_lian_shi_yu_tuo_wang_wai_run/)
+- [司法争夺战——李锐日记放哪里？](https://www.histfacts.com/2024/09/lin_pei_rui_si_fa_zheng_duo_zhan_li_rui_ri/)
 - [非移与大选（大选杂文系列之六）](https://www.histfacts.com/2024/08/min_en_chou_fei_yi_yu_da_xuan/)
 - [凭什么普通人也过这么好](https://www.histfacts.com/2024/08/meng_chang_ping_shen_me_pu_tong_ren_ye_guo_zhe/)
 - [希特勒现象](https://www.histfacts.com/2024/08/qian_man_su_xi_te_lei_xian_xiang/)
@@ -235,6 +301,9 @@
 - [江月明：狂风摧落叶，尽瘁入黄泥 郭罗基：“梁效”顾问冯友兰（选载之四）](https://www.histfacts.com/2024/08/di_yi_si_er_liu_qi_zk2408b_zuo_zhe_jiang_yue/)
 - [心脏又放了支架，这次不太一样](https://www.histfacts.com/2024/08/chen_xiang_yang_xin_zang_you_fang_le_zhi_jia_zhe/)
 - [“三中全会”去神化](https://www.histfacts.com/2024/08/cheng_xiao_nong_san_zhong_quan_hui_qu_shen_hua/)
+- [清和社长：历史的垃圾时间](https://www.histfacts.com/2024/08/qing_he_she_zhang_li_shi_de_la_ji_shi_jian/)
+- [斯文何以扫地一一中国知识分子思想改造的特种炼狱](https://www.histfacts.com/2024/08/zi_zhong_yun_si_wen_he_yi_sao_di_yi_yi/)
+- [一朝被蛇咬，一生怕井绳：老一代知识分子内心的伤疤与恐惧](https://www.histfacts.com/2024/08/lian_chen_yi_zhao_bei_she_yao_yi_sheng_pa_jing/)
 - [栗决定大选结果的应是投票率](https://www.histfacts.com/2024/08/li_qi_cheng_jue_ding_da_xuan_jie_guo_de_ying/)
 - [李承鹏：看那几十万条精壮汉子和一碗鸡汤](https://www.histfacts.com/2024/08/li_cheng_peng_kan_na_ji_shi_wan_tiao_jing_zhuang/)
 - [早晨，北大！](https://www.histfacts.com/2024/08/huang_zi_ping_zao_chen_bei_da_/)
@@ -289,7 +358,8 @@
 - [罗玉凤：哪国人并不重要，哪国把你当人才重要！](https://www.histfacts.com/2024/08/luo_yu_feng_na_guo_ren_bing_bu_zhong_yao_na/)
 
 ## 财富人生
-- [巴菲特历次抛售都有的惊人规律！史无前例大抛售的真相终于揭晓！大危机将至？](https://www.histfacts.com/2024/08/why_did_buffett_sell_stocks/)
 - [如果从30岁重新开始，将如何选择投资？股神巴菲特告诉你答案](https://www.histfacts.com/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
+- [市场经济：亚当·斯密的万能的手](https://www.histfacts.com/2024/09/jiang_wen_ming_shi_chang_jing_ji_1_shi_mi_si/)
+- [巴菲特历次抛售都有的惊人规律！史无前例大抛售的真相终于揭晓！大危机将至？](https://www.histfacts.com/2024/08/why_did_buffett_sell_stocks/)
 - [【干货】期权入门及低风险策略](https://www.histfacts.com/2024/07/introduction_to_options_and_low-risk_strategies/)
 
