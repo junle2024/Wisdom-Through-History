@@ -4,6 +4,9 @@
 - [The Decline of Prosperity:China's Economy Under Siege (Understanding This Can Benefit You for 30 Years)](https://www.histfacts.com/en/2024/07/the_besieged_chinese_economy/)
 - [Shen Kui & Lao Dongyan | Opinions on "Net Certificate and Net ID"](https://www.histfacts.com/en/2024/08/china_internet_certificate_number/)
 
+## Biographical Figures
+- [Mao Zedong’s Deep Connection with “September 9th”](https://www.histfacts.com/en/2024/09/mao_ze_dong_yu_jiu_yue_jiu_ri_de_bu_jie_zhi_yuan/)
+
 ## Biographical profiles
 - [Chen Yun's Three Statements:Shaping China's Political and Economic Landscape](https://www.histfacts.com/en/2024/08/cheng_yun_a/)
 - [Deng Xiaoping:The Architect of Modern China (part 2)](https://www.histfacts.com/en/2024/08/deng_xiaoping_b/)
@@ -19,6 +22,9 @@
 
 ## Chaijing talk
 - [Gao Yaojie:A Lifelong Journey of Upholding Truth](https://www.histfacts.com/en/2024/07/gao_yaojie_a_lifelong_journey_of_upholding_truth/)
+
+## Digital Era
+- [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.histfacts.com/en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
 
 ## Exploration and Reflection
 - [How to Get Through Historical Wasted Time](https://www.histfacts.com/en/2024/07/how_to_get_through_historical_wasted_time/)

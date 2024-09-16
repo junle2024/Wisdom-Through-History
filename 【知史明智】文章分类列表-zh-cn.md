@@ -9,17 +9,40 @@
 
 ## 404文库
 - [谭秦东：竟是我的校友举报了我](https://www.histfacts.com/2024/09/tan_qin_dong_he_ta_peng_you_men_tan_qin_dong/)
+- [祥子累死在了车上](https://www.histfacts.com/2024/09/liang_jian_xiang_zi_lei_si_zai_le_che_shang/)
 - [你给储户赋红码，我们写文秒被删](https://www.histfacts.com/2024/08/qiu_ran_ke_hao_mang_ni_gei_chu_hu_fu_hong/)
 - [从住房养老金到砸锅卖铁，政策语言应该规范化](https://www.histfacts.com/2024/08/ruo_xin_hao_cong_zhu_fang_yang_lao_jin_dao_za/)
 
 ## 404文档
+- [“失控”的定制校车](https://www.histfacts.com/2024/09/peng_pai_xin_wen_shi_kong_de_ding_zhi_xiao_che/)
 - [没办法](https://www.histfacts.com/2024/09/mai_xing_hua_mei_ban_fa/)
 - [住在办公室的人](https://www.histfacts.com/2024/09/mei_ri_ren_wu_zhu_zai_ban_gong_shi_de_ren/)
 
 ## 404档案
 - [俄乌战争逻辑：当年日本武装攻占中国，不是“侵略”是“去军事化”？](https://www.histfacts.com/2024/09/fei_chang_dao_guo_e_wu_zhan_zheng_luo_ji_dang/)
+- [一位身着美团服装的外卖骑手举牌呼吁](https://www.histfacts.com/2024/09/sui_cheng_liu_nian_yi_wei_shen_zhe_mei_tuan_fu/)
 - [对话李佩霞案家属委托律师：询问能否依法依规安排会见未被回应](https://www.histfacts.com/2024/08/fa_du_law_dui_hua_li_pei_xia_an_jia_shu/)
 - [太原公安下一步应该就是找我了……以这种方式给自己的律师职业画上句号，是最圆满的事情。](https://www.histfacts.com/2024/08/yi_sheng_hua_lv_shi_tai_yuan_gong_an_xia_yi/)
+
+## VOA 中文
+- [记者手记(2)：抢劫、受伤、死里逃生，中国走线客的雨林经历](https://www.histfacts.com/2024/09/ji_zhe_shou_ji_2_qiang_jie_shou_shang_si_li/)
+- [记者手记(3)：“苟且偷生不如放手一搏”：中国走线客为何涉险穿越巴拿马雨林](https://www.histfacts.com/2024/09/ji_zhe_shou_ji_3_gou_qie_tou_sheng_bu_ru/)
+
+## VOA中文
+- [世界媒体看中国-垃圾时间与当局忙碌](https://www.histfacts.com/2024/09/shi_jie_mei_ti_kan_zhong_guo_la_ji_shi_jian/)
+- [“中国式现代化”：权贵的馅饼，百姓的陷阱](https://www.histfacts.com/2024/09/guo_shi_guang_xi_zhong_guo_shi_xian_dai_hua_quan/)
+- [记者手记(1)：巴拿马雨林外，不断抵达的中国走线客](https://www.histfacts.com/2024/09/ji_zhe_shou_ji_1_ba_na_ma_yu_lin_wai/)
+- [哈里斯和特朗普在电视辩论中针对中国问题展开激烈交锋](https://www.histfacts.com/2024/09/ha_li_si_he_te_lang_pu_zai_dian_shi_bian/)
+
+## 《莽莽》杂志
+- [深度报道｜中国互联网审核员的罪与罚](https://www.histfacts.com/2024/09/zhong_guo_internet_shen_he_yuan_de_zuì_yu_fa/)
+
+## 万维
+- [我永不会投降！再遭枪击后，川普第一时间发声](https://www.histfacts.com/2024/09/wo_yong_bu_hui_tou_xiang_zai_zao_qiang_ji_hou/)
+- [两特征很明显！传天津“无人机”事件更多内幕](https://www.histfacts.com/2024/09/liang_te_zheng_hen_ming_xian_chuan_tian_jin_wu_ren/)
+- [中国延迟退休新规落地，他们的退休金在哪里？](https://www.histfacts.com/2024/09/zhong_guo_yan_chi_tui_xiu_xin_gui_luo_di_ta/)
+- [变调了！垃圾时间，北京瞎忙活](https://www.histfacts.com/2024/09/bian_diao_le_la_ji_shi_jian_bei_jing_xia_mang/)
+- [中国经济问题比当年日本严重得多](https://www.histfacts.com/2024/09/jing_ji_xue_zhe_zhong_guo_jing_ji_wen_ti_bi/)
 
 ## 万维博客
 - [台湾政治恶斗的根深蒂固和第三势力泡沫化的魔咒](https://www.histfacts.com/2024/09/ke_wen_zhe_bei_bu_tai_wan_zheng_zhi_e_dou/)
@@ -39,6 +62,7 @@
 - [这世上最难的事，是向一群傻 x 自证清白](https://www.histfacts.com/2024/07/the_hardest_thing_in_this_world/)
 
 ## 人物传记
+- [毛泽东与“九月九日”的不解之缘](https://www.histfacts.com/2024/09/mao_ze_dong_yu_jiu_yue_jiu_ri_de_bu_jie_zhi_yuan/)
 - [陈云的三句话：如何塑造中国的政治与经济格局](https://www.histfacts.com/2024/08/cheng_yun_a/)
 - [一言难尽朱镕基：贰臣、忠臣与能臣（文字整理稿）](https://www.histfacts.com/2024/09/yi_yan_nan_jin_zhu_rong_ji/)
 - [刘伯承传：战略天才与历史风云](https://www.histfacts.com/2024/07/liu_bo_cheng_zhuan/)
@@ -106,6 +130,8 @@
 - [孟加拉人民痛恨的，是特权](https://www.histfacts.com/2024/08/meng_jia_la_ren_min_tong_hen_de_shi_te_quan/)
 - [留给许家印家族的时间不多了](https://www.histfacts.com/2024/08/liu_gei_xu_jia_yin_shi_jian_bu_duo/)
 - [《黑神话：悟空》到底有啥意义？](https://www.histfacts.com/2024/08/hei_shen_hua_wu_kong_dao_di_you_sha_yi_yi/)
+- [【深度】中国房子问题，这篇文章一针见血](https://www.histfacts.com/2024/09/fang_zi_wen_ti_yi_zhen_jian_xie/)
+- [延迟退休要来了！这些省市，首当其冲](https://www.histfacts.com/2024/09/yan_chi_tui_xiu_zhe_xie_sheng_shou_dang_qi_chong/)
 - [未来最赚钱的5大趋势](https://www.histfacts.com/2024/09/wei_lai_zui_zhuan_qian_de_5_da_qu_shi/)
 - [高温之下的荒诞教育乱象](https://www.histfacts.com/2024/09/gao_wen_zhi_xia_de_huang_dan_jiao_yu_luan_xiang/)
 - [巴菲特1999年演讲：去做那些让我们感到兴奋的事情](https://www.histfacts.com/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
@@ -127,12 +153,18 @@
 - [“润”的新选择：对中国新移民而言，日本或比美国更具吸引力](https://www.histfacts.com/2024/09/run_de_xin_xuan_ze_dui_zhong_guo_xin_yi/)
 - [中国内需不振转向非洲买家，中欧竞争给安哥拉带来机会](https://www.histfacts.com/2024/09/zhong_guo_nei_xu_bu_zhen_zhuan_xiang_fei_zhou_mai/)
 - [世界媒体看中国:电动汽车与贸易形势](https://www.histfacts.com/2024/09/shi_jie_mei_ti_kan_zhong_guo_dian_dong_qi_che/)
+- [“那个瞬间我真的觉得我是在作恶”，中国互联网审核员的罪与罚（外二篇）](https://www.histfacts.com/2024/09/na_ge_shun_jian_wo_zhen_de_jue_de_wo/)
+- [国足这0比7，让我想起李鸿章的“看足球之问”](https://www.histfacts.com/2024/09/wang_chuan_bian_de_dan_ding_guo_zu_zhe_0_bi/)
 - [辩证地看待0:7](https://www.histfacts.com/2024/09/mai_xing_hua_bian_zheng_di_kan_dai_0_7/)
 - [八宗罪！一律所向律协发函：申请退出律协](https://www.histfacts.com/2024/09/fa_gui_zhi_nan_ba_zong_zui_yi_lv_suo_xiang/)
 - [中国停止国际收养，弃婴的逆天改命机会也没了](https://www.histfacts.com/2024/09/huan_xi_sha_du_fu_zhong_guo_ting_zhi_guo_ji/)
 - [万万没想到，会被省纪委约见](https://www.histfacts.com/2024/09/yi_zhe_chu_wan_wan_mei_xiang_dao_hui_bei_sheng/)
 - [底层互害，越来越魔幻了](https://www.histfacts.com/2024/09/jian_ke_xie_zi_de_di_fang_di_ceng_hu_hai/)
 - [月薪三万的陆家嘴打工人，抠抠搜搜](https://www.histfacts.com/2024/09/meng_ma_gong_zuo_shi_yue_xin_san_wan_de_lu/)
+- [我与权力的距离](https://www.histfacts.com/2024/09/zheng_mian_lian_jie_wo_yu_quan_li_de_ju_li/)
+- [他死了，没有然后](https://www.histfacts.com/2024/09/guan_ren_sui_bi_ta_si_le_mei_you_ran_hou/)
+- [月薪三万，躲不过「垃圾站外卖」](https://www.histfacts.com/2024/09/feng_huang_weekly_yue_xin_san_wan_duo_bu_guo_la/)
+- [就业市场又遭重锤](https://www.histfacts.com/2024/09/liang_jian_jiu_ye_shi_chang_you_zao_zhong_chui/)
 - [关于房屋养老金，还有几个问题没说清](https://www.histfacts.com/2024/08/si_huan_qing_nian_guan_yu_fang_wu_yang_lao_jin/)
 - [谷爱凌还是没忍住](https://www.histfacts.com/2024/08/liu_shen_lei_lei_du_jin_yong_gu_ai_ling_hai/)
 - [给储户赋红码被处分的女官员，已任郑州文旅局一把手](https://www.histfacts.com/2024/08/zong_lan_xin_wen_gei_chu_hu_fu_hong_ma_bei/)
@@ -168,6 +200,19 @@
 - [铁头的崛起：流氓爱国就可以畅通无阻？](https://www.histfacts.com/2024/08/zhang_3_feng_de_shi_jie_tie_tou_de_jue_qi/)
 - [柴静：这种震耳欲聋的沉默何尝不是现在这个时代的写照](https://www.histfacts.com/2024/08/zhe_zhong_zhen_er_yu_long_de_chen_mo_he/)
 - [地下工作大受影响](https://www.histfacts.com/2024/08/xing_qiu_shang_ye_ping_lun_di_xia_gong_zuo_da/)
+- [农村女性的墓碑上，没有自己的姓名](https://www.histfacts.com/2024/09/kan_ke_insight_nong_cun_nv_xing_de_mu_bei_shang/)
+- [延迟退休可能是对一代人的违约](https://www.histfacts.com/2024/09/cao_lin_yan_chi_tui_xiu_ke_neng_shi_dui_yi/)
+- [被剥夺说话权的阿富汗女人，正在用歌声回击这一切…](https://www.histfacts.com/2024/09/shi_jie_yin_yue_bei_bo_duo_shuo_hua_quan_de/)
+- [过剩产能出清之日，就是真正拐点到来之时](https://www.histfacts.com/2024/09/sun_li_ping_guo_sheng_chan_neng_chu_qing_zhi_ri/)
+- [高墙内，一颗鸡蛋的自白](https://www.histfacts.com/2024/09/san_hui_tu_shu_gao_qiang_nei_yi_ke_ji_dan/)
+- [关于中国足球，说几句阅后即焚的话](https://www.histfacts.com/2024/09/da_xiang_gong_she_guan_yu_zhong_guo_zu_qiu_shuo/)
+- [温克坚：砸锅卖铁——地方债务的前世今生](https://www.histfacts.com/2024/09/xin_xin_mo_cun_wen_ke_jian_za_guo_mai_tie/)
+- [揭秘“人骨工厂”，医学需求如何催生地下罪恶产业？](https://www.histfacts.com/2024/09/zhi_shi_fen_zi_jie_mi_ren_gu_gong_chang_yi/)
+- [足球是一个逆子](https://www.histfacts.com/2024/09/liu_shen_lei_lei_du_jin_yong_zu_qiu_shi_yi/)
+- [一个公众号的倒掉：“贞观”](https://www.histfacts.com/2024/09/ida_yi_ge_gong_zhong_hao_de_dao_diao/)
+- [有些统计数据无论怎么测量，它都测不准](https://www.histfacts.com/2024/09/gu_dao_xi_feng_leng_yue_you_xie_tong_ji_shu/)
+- [贱民的胜利](https://www.histfacts.com/2024/09/te_zheng_jing_de_zhang_mou_mou_jian_min_de_sheng/)
+- [一个中年同志的20年：扔掉“变态”的枷锁，现在的生活就像“天亮了”！](https://www.histfacts.com/2024/09/a_qiang_tong_zhi_yi_ge_zhong_nian_tong_zhi_de/)
 - [“房屋养老金不要老百姓直接出钱，可不可以理解为‘要老百姓间接出钱’呢？”](https://www.histfacts.com/2024/09/fang_wu_yang_lao_jin_bu_yao_lao_bai_xing/)
 - [让我感到羞愧的，不是中国足球](https://www.histfacts.com/2024/09/guan_ren_sui_bi_rang_wo_gan_dao_xiu_kui_de/)
 - [第一次课，讲到了被封号的贞观文章](https://www.histfacts.com/2024/09/tang_shi_san_bai_shou_di_yi_ci_ke_jiang_dao/)
@@ -187,6 +232,18 @@
 - [北戴河会后的乱象-中国的“大跃退”开始了](https://www.histfacts.com/2024/08/pu_huang_yu_shuo_bei_dai_he_hui_hou_de_luan/)
 - [砸锅卖铁，关键看砸谁的锅](https://www.histfacts.com/2024/08/a_luo_han_bu_yue_za_guo_mai_tie_guan_jian/)
 - [张展赴甘肃营救张盼成后失联](https://www.histfacts.com/2024/08/wei_quan_wang_zhang_zhan_fu_gan_su_ying_jiu_zhang/)
+- [我们为什么选择沉默式辩护](https://www.histfacts.com/2024/09/bian_hu_ren_defenders_wo_men_wei_shen_me_xuan_ze/)
+- [传音不过山海关](https://www.histfacts.com/2024/09/xing_qiu_shang_ye_ping_lun_chuan_yin_bu_guo_shan/)
+- [全国最知名烂尾楼，正在“浴火重生”](https://www.histfacts.com/2024/09/bing_chuan_si_xiang_hao_quan_guo_zui_zhi_ming_lan/)
+- [55岁外卖“单王”猝死，每天接单20小时不是他的错](https://www.histfacts.com/2024/09/si_huan_qing_nian_55_sui_wai_mai_dan_wang_cu/)
+- [纸面上讲，咱们的退休年龄确实太低了](https://www.histfacts.com/2024/09/meng_chang_zhi_mian_shang_jiang_zan_men_de_tui_xiu/)
+- [嘿！我看到你“翻墙”了！](https://www.histfacts.com/2024/09/an_bo_tong_hei_wo_kan_dao_ni_fan_qiang_le/)
+- [老来难](https://www.histfacts.com/2024/09/cuo_ti_jia_lao_lai_nan/)
+- [一位高调批评中共的异议人士会设下骗局吗？](https://www.histfacts.com/2024/09/npr_yi_wei_gao_diao_pi_ping_zhong_gong_de_yi/)
+- [货车司机死亡后，剩下的最后700公里](https://www.histfacts.com/2024/09/ji_zhou_gong_zuo_shi_huo_che_si_ji_si_wang/)
+- [推荐阅读｜送养公告收集者的二十年](https://www.histfacts.com/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
+- [国足输了，中国却赢麻了](https://www.histfacts.com/2024/09/lao_pai_e_gun_guo_zu_shu_le_zhong_guo_que/)
+- [人民日报｜一将无能累死三军，该有人出来担责了](https://www.histfacts.com/2024/09/ren_min_ri_bao_yi_jiang_wu_neng_lei_si_san/)
 - [全国就2辆罐车混运化工食用油，被记者精准发现了？](https://www.histfacts.com/2024/08/jian_she_xing_yi_jian_quan_guo_jiu_2_liang_guan/)
 
 ## 柴静访谈
@@ -219,6 +276,10 @@
 ## 芒格智慧
 - [第一讲：在哈佛学校毕业典礼上的演讲](https://www.histfacts.com/2024/07/charles_xi_lectures_01/)
 - [第二讲：论基本的、普世的智慧，及其与投资管理和商业的关系](https://www.histfacts.com/2024/07/charles_xi_lectures_02/)
+
+## 莽莽
+- [与台湾朋友聊聊：想象一个共同生活的社会（下）](https://www.histfacts.com/2024/09/yu_tai_wan_peng_you_liao_liao_b/)
+- [与台湾朋友聊聊：去殖民化与社会运动（上）](https://www.histfacts.com/2024/09/yu_tai_wan_peng_you_liao_liao_a/)
 
 ## 观察洞见
 - [美国无家可归现象：统计数据、分析与趋势](https://www.histfacts.com/2024/08/homelessness_in_america/)
@@ -350,6 +411,26 @@
 - [纪念刘晓波](https://www.histfacts.com/2024/08/hu_ping_ji_nian_liu_xiao_bo/)
 - [漂在非洲的中国商人，在恐惧中等待暴富神话](https://www.histfacts.com/2024/08/kan_ke_insight_piao_zai_fei_zhou_de_zhong_guo_shang/)
 - [这个世界我们曾经来过](https://www.histfacts.com/2024/08/li_xin_ji_zhe_ge_shi_jie_wo_men_ceng_jing/)
+- [凯迪：季风书园举办首次人文讲坛吴国光提出”海华民族”新概念](https://www.histfacts.com/2024/09/kai_di_ji_feng_shu_yuan_ju_ban_shou_ci_ren/)
+- [吴道平：人有先天知识吗？(上)](https://www.histfacts.com/2024/09/wu_dao_ping_ren_you_xian_tian_zhi_shi_ma_shang/)
+- [萧波：开明的狠角色一一读《叶卡捷琳娜大帝传》](https://www.histfacts.com/2024/09/xiao_bo_kai_ming_de_hen_jue_se_yi_yi_du/)
+- [孤山：选择美国学校](https://www.histfacts.com/2024/09/gu_shan_xuan_ze_mei_guo_xue_xiao/)
+- [虞山：冯梦龙，一个值得中国人铭记的文化人](https://www.histfacts.com/2024/09/yu_shan_feng_meng_long_yi_ge_zhi_de_zhong_guo/)
+- [莉雅：美众院“中国周”再通过三项抗衡中国影响力法案](https://www.histfacts.com/2024/09/li_ya_mei_zhong_yuan_zhong_guo_zhou_zai_tong_guo/)
+- [万物皆可疑？一份中国国安部眼中的不完整威胁清单](https://www.histfacts.com/2024/09/wang_yue_mei_wan_wu_jie_ke_yi_yi_fen_zhong/)
+- [锺辰芳：美众院通过《台湾冲突遏阻法》，警告北京侵台有代价](https://www.histfacts.com/2024/09/zhong_chen_fang_mei_zhong_yuan_tong_guo_tai_wan_chong/)
+- [众院“中国周”通过28项涉华法案（附部分法案清单）](https://www.histfacts.com/2024/09/wang_gang_zhong_yuan_zhong_guo_zhou_tong_guo_28_xiang/)
+- [江月明：约翰内斯堡历险记一一廿年前南非纪行之见闻](https://www.histfacts.com/2024/09/jiang_yue_ming_yue_han_nei_si_bao_li_xian_ji/)
+- [吴道平：人有先天知识吗？(下)](https://www.histfacts.com/2024/09/wu_dao_ping_ren_you_xian_tian_zhi_shi_ma_xia/)
+- [故交半零落，海外存知己一一读野夫《故交半零落》有感](https://www.histfacts.com/2024/09/wang_yan_gu_jiao_ban_ling_luo_hai_wai_cun_zhi/)
+- [美众院压倒性通过可致香港经贸办关闭的法案中方向美方提交涉称会反制](https://www.histfacts.com/2024/09/mai_yan_ting_mei_zhong_yuan_ya_dao_xing_tong_guo/)
+- [章乐古：美众议院“中国周”表决通过《生物安全法案》：几大要点速览](https://www.histfacts.com/2024/09/zhang_le_gu_mei_zhong_yi_yuan_zhong_guo_zhou_biao/)
+- [思羽：卢浮宫素描](https://www.histfacts.com/2024/09/si_yu_lu_fu_gong_su_miao/)
+- [BBC：中共党史上最神秘的政治事件带来什么启示](https://www.histfacts.com/2024/09/bbc_zhong_gong_dang_shi_shang_zui_shen_mi_de_zheng/)
+- [史纵纬：我怎么看“9.13事件”](https://www.histfacts.com/2024/09/shi_zong_wei_wo_zen_me_kan_9_13_shi_jian/)
+- [张文灿：文革开始的最后一堂文化课](https://www.histfacts.com/2024/09/zhang_wen_can_wen_ge_kai_shi_de_zui_hou_yi/)
+- [江月明：我和柏林博物馆的不解之缘](https://www.histfacts.com/2024/09/jiang_yue_ming_wo_he_bo_lin_bo_wu_guan_de/)
+- [上官乱：脱口秀演员依然孤独，但不再恶毒](https://www.histfacts.com/2024/09/shang_guan_luan_tuo_kou_xiu_yan_yuan_yi_ran_gu/)
 - [孤山：撞鹿记](https://www.histfacts.com/2024/08/gu_shan_zhuang_lu_ji/)
 - [网络把我们变傻了吗？](https://www.histfacts.com/2024/08/hui_ge_wang_luo_ba_wo_men_bian_sha_le_ma/)
 - [何与怀：澳洲又曝出一声惊雷](https://www.histfacts.com/2024/08/he_yu_huai_ao_zhou_you_pu_chu_yi_sheng_jing/)

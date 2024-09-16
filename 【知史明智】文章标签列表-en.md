@@ -14,6 +14,9 @@
 - [The Decline of Prosperity:China's Economy Under Siege (Understanding This Can Benefit You for 30 Years)](https://www.histfacts.com/en/2024/07/the_besieged_chinese_economy/)
 - [Shen Kui & Lao Dongyan | Opinions on "Net Certificate and Net ID"](https://www.histfacts.com/en/2024/08/china_internet_certificate_number/)
 
+## Adoption
+- [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.histfacts.com/en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
+
 ## Buffett
 - [Buffett's 1999 Speech:Do the Things That Excite Us](https://www.histfacts.com/en/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
 
@@ -29,6 +32,9 @@
 ## Charles XI Lectures
 - [Talk 1:Harvard School Commencement Speech](https://www.histfacts.com/en/2024/07/charles_xi_lectures_01/)
 - [Talk 2:A Lesson on Elementary, Worldly Wisdom as It Relates to Investment Management and Business](https://www.histfacts.com/en/2024/07/charles_xi_lectures_02/)
+
+## Child
+- [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.histfacts.com/en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
 
 ## Economics
 - [Ray Dalio:How the Economic Machine Works（The transcript of a 30-minute video）](https://www.histfacts.com/en/2024/07/how_the_economic_machine_works/)
@@ -91,12 +97,24 @@
 ## Jiang Zemin
 - [Wang Sir's News Talk | How to view the era of Jiang Zemin](https://www.histfacts.com/en/2024/08/how_to_view_era_of_jiang_zemin/)
 
+## Mao Zedong
+- [Mao Zedong’s Deep Connection with “September 9th”](https://www.histfacts.com/en/2024/09/mao_ze_dong_yu_jiu_yue_jiu_ri_de_bu_jie_zhi_yuan/)
+
+## Relinquishment
+- [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.histfacts.com/en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
+
+## September 9
+- [Mao Zedong’s Deep Connection with “September 9th”](https://www.histfacts.com/en/2024/09/mao_ze_dong_yu_jiu_yue_jiu_ri_de_bu_jie_zhi_yuan/)
+
 ## USA
 - [Homelessness in America:Statistics, Analysis, and Trends](https://www.histfacts.com/en/2024/08/homelessness_in_america/)
 - [Why Are So Many People Homeless?](https://www.histfacts.com/en/2024/08/why_are_so_many_people_homeless/)
 
 ## WeChat
 - [Buffett's 1999 Speech:Do the Things That Excite Us](https://www.histfacts.com/en/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
+
+## Welfare Institution
+- [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.histfacts.com/en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
 
 ## erye story
 - [Mao Zedong and Lin Biao:The Mystery of the First Faction's Defection(Part 1)](https://www.histfacts.com/en/2024/07/mao_zedong_and_lin_biao_1/)
