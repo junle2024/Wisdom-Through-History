@@ -28,6 +28,26 @@ HistFacts 是一个致力于分享和分析历史事件及时事热点的资源�
 
 以下是一些最热 🔥🔥🔥 的文章：
 
+1988年央视被禁纪录片《河殇》解说词
+
+第一集 寻梦
+https://pro.histfacts.com/preview/shared-posts/683df0547a1d4858844ff243ba0d7ee3
+
+第二集 命运
+https://pro.histfacts.com/preview/shared-posts/6f99e88f42b64c82ae2dbdde9433abbb
+
+第三集 灵光
+https://pro.histfacts.com/preview/shared-posts/998b32c527ea41f6b380997904793913
+
+第四集 新纪元
+https://pro.histfacts.com/preview/shared-posts/9ddbc1c49eb54a889e714a69ba9d3ec0
+
+第五集 忧患
+https://pro.histfacts.com/preview/shared-posts/83c659b9e6254f4199c3a81825373291
+
+第六集 蔚蓝色
+https://pro.histfacts.com/preview/shared-posts/89804bb0156c4335a06f81616220dd9b 
+
 ### 404 文库
 
 - [繁华渐逝：腹背受敌的中国经济（读懂，能受益 30 年）](https://www.histfacts.com/2024/07/the_besieged_chinese_economy/)
