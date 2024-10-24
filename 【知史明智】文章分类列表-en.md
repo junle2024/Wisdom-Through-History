@@ -68,6 +68,16 @@
 ## Recommended Articles
 - [Buffett's 1999 Speech:Do the Things That Excite Us](https://www.histfacts.com/en/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
 
+## Stories of Er Ye
+- [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 1)](https://www.histfacts.com/en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_01/)
+- [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 2)](https://www.histfacts.com/en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_02/)
+
+## THE WALL STREET JOURNAL
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.histfacts.com/en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
+
+## The economist
+- [Escaping from China to America](https://www.histfacts.com/en/2024/10/tao-chi-zhong-guo-zou-xian-dao-mei-guo/)
+
 ## Understanding Economics
 - [Ray Dalio:How the Economic Machine Works（The transcript of a 30-minute video）](https://www.histfacts.com/en/2024/07/how_the_economic_machine_works/)
 

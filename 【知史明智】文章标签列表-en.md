@@ -17,6 +17,9 @@
 ## Adoption
 - [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.histfacts.com/en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
 
+## America
+- [Escaping from China to America](https://www.histfacts.com/en/2024/10/tao-chi-zhong-guo-zou-xian-dao-mei-guo/)
+
 ## Buffett
 - [Buffett's 1999 Speech:Do the Things That Excite Us](https://www.histfacts.com/en/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
 
@@ -110,11 +113,24 @@
 - [Homelessness in America:Statistics, Analysis, and Trends](https://www.histfacts.com/en/2024/08/homelessness_in_america/)
 - [Why Are So Many People Homeless?](https://www.histfacts.com/en/2024/08/why_are_so_many_people_homeless/)
 
+## Wang Jingwei
+- [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 1)](https://www.histfacts.com/en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_01/)
+- [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 2)](https://www.histfacts.com/en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_02/)
+
 ## WeChat
 - [Buffett's 1999 Speech:Do the Things That Excite Us](https://www.histfacts.com/en/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
 
 ## Welfare Institution
 - [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.histfacts.com/en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
+
+## ZOUXIAN
+- [Escaping from China to America](https://www.histfacts.com/en/2024/10/tao-chi-zhong-guo-zou-xian-dao-mei-guo/)
+
+## de-risking
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.histfacts.com/en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
+
+## economic pivot
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.histfacts.com/en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
 
 ## erye story
 - [Mao Zedong and Lin Biao:The Mystery of the First Faction's Defection(Part 1)](https://www.histfacts.com/en/2024/07/mao_zedong_and_lin_biao_1/)
@@ -133,6 +149,20 @@
 - [Story of Run:Moments that Determine Destiny](https://www.histfacts.com/en/2024/07/shape_destiny_run/)
 - [Hua Guofeng (Part 1):Why Leaders Rebel](https://www.histfacts.com/en/2024/07/hua_guo_feng_part_one_leaders_why_revolt/)
 - [Hua Guofeng (Part 2):How did Deng Xiaoping manipulate political maneuvers to overthrow Hua Guofeng?](https://www.histfacts.com/en/2024/07/hua_guofeng_part_2_deng_xiaoping_overthrow/)
+
+## fiscal discipline
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.histfacts.com/en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
+
+## national sinner
+- [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 1)](https://www.histfacts.com/en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_01/)
+- [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 2)](https://www.histfacts.com/en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_02/)
+
+## stock market
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.histfacts.com/en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
+
+## traitor
+- [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 1)](https://www.histfacts.com/en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_01/)
+- [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 2)](https://www.histfacts.com/en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_02/)
 
 ## wangju
 - [Wang Sir's News Talk | How to view the era of Jiang Zemin](https://www.histfacts.com/en/2024/08/how_to_view_era_of_jiang_zemin/)
