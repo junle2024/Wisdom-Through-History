@@ -18,7 +18,7 @@
 - [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.realhist.org//en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
 
 ## America
-- [Escaping from China to America](https://www.realhist.org//en/2024/10/tao-chi-zhong-guo-zou-xian-dao-mei-guo/)
+- [Escaping from China to America](https://www.realhist.org//en/2024/12/tao-chi-zhong-guo-zou-xian-dao-mei-guo/)
 
 ## Buffett
 - [Buffett's 1999 Speech:Do the Things That Excite Us](https://www.realhist.org//en/2024/08/ba_fei_te_qu_zuo_gan_dao_xing_fen_de_shi_qing/)
@@ -40,9 +40,9 @@
 - [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.realhist.org//en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
 
 ## Contemporary China
-- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
-- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
-- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
+- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
+- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
+- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
 
 ## Economics
 - [Ray Dalio:How the Economic Machine Works（The transcript of a 30-minute video）](https://www.realhist.org//en/2024/07/how_the_economic_machine_works/)
@@ -109,9 +109,9 @@
 - [Mao Zedong’s Deep Connection with “September 9th”](https://www.realhist.org//en/2024/09/mao_ze_dong_yu_jiu_yue_jiu_ri_de_bu_jie_zhi_yuan/)
 
 ## Qin Gang
-- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
-- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
-- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
+- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
+- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
+- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
 
 ## Relinquishment
 - [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.realhist.org//en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
@@ -120,18 +120,18 @@
 - [Mao Zedong’s Deep Connection with “September 9th”](https://www.realhist.org//en/2024/09/mao_ze_dong_yu_jiu_yue_jiu_ri_de_bu_jie_zhi_yuan/)
 
 ## US-China Relations
-- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
-- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
-- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
+- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
+- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
+- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
 
 ## USA
 - [Homelessness in America:Statistics, Analysis, and Trends](https://www.realhist.org//en/2024/08/homelessness_in_america/)
 - [Why Are So Many People Homeless?](https://www.realhist.org//en/2024/08/why_are_so_many_people_homeless/)
 
 ## Wall Street
-- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
-- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
-- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
+- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
+- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
+- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
 
 ## Wang Jingwei
 - [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 1)](https://www.realhist.org//en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_01/)
@@ -144,13 +144,13 @@
 - [Recommended Reading | The Twenty Years of a Child Adoption Announcement Collector](https://www.realhist.org//en/2024/09/shou_lou_chu_song_yang_gong_gao_shou_ji_zhe_de/)
 
 ## ZOUXIAN
-- [Escaping from China to America](https://www.realhist.org//en/2024/10/tao-chi-zhong-guo-zou-xian-dao-mei-guo/)
+- [Escaping from China to America](https://www.realhist.org//en/2024/12/tao-chi-zhong-guo-zou-xian-dao-mei-guo/)
 
 ## de-risking
-- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/12/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
 
 ## economic pivot
-- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/12/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
 
 ## erye story
 - [Mao Zedong and Lin Biao:The Mystery of the First Faction's Defection(Part 1)](https://www.realhist.org//en/2024/07/mao_zedong_and_lin_biao_1/)
@@ -171,14 +171,14 @@
 - [Hua Guofeng (Part 2):How did Deng Xiaoping manipulate political maneuvers to overthrow Hua Guofeng?](https://www.realhist.org//en/2024/07/hua_guofeng_part_2_deng_xiaoping_overthrow/)
 
 ## fiscal discipline
-- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/12/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
 
 ## national sinner
 - [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 1)](https://www.realhist.org//en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_01/)
 - [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 2)](https://www.realhist.org//en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_02/)
 
 ## stock market
-- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/12/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
 
 ## traitor
 - [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 1)](https://www.realhist.org//en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_01/)

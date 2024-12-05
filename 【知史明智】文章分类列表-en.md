@@ -73,18 +73,18 @@
 - [Saving the Nation or Betraying It:The Black and White of Wang Jingwei (Part 2)](https://www.realhist.org//en/2024/10/jiu_guo_hai_shi_mai_guo_wang_jing_wei_02/)
 
 ## THE WALL STREET JOURNAL
-- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/10/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
+- [Xi Pivots on Economy, Scoffs at Full U-Turn](https://www.realhist.org//en/2024/12/xi-zai-jing-ji-wen-ti-shang-zhuan-xiang/)
 
 ## The economist
-- [Escaping from China to America](https://www.realhist.org//en/2024/10/tao-chi-zhong-guo-zou-xian-dao-mei-guo/)
+- [Escaping from China to America](https://www.realhist.org//en/2024/12/tao-chi-zhong-guo-zou-xian-dao-mei-guo/)
 
 ## Understanding Economics
 - [Ray Dalio:How the Economic Machine Works（The transcript of a 30-minute video）](https://www.realhist.org//en/2024/07/how_the_economic_machine_works/)
 
 ## Wall Street Podcast
-- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
-- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
-- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/10/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
+- [The Missing Minister, Episode 2:The Affair(text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-02/)
+- [The Missing Minister, Episode 3:The Downfall](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-03/)
+- [The Missing Minister, Episode 1:The Vanishing of Qin Gang(Text)](https://www.realhist.org//en/2024/11/xiao-shi-de-wai-jiao-bu-zhang-qin-gang-01/)
 
 ## Wealthy Life
 - [Buffett reveals ideal investments if starting over at 30](https://www.realhist.org//en/2024/07/buffett_reveals_ideal_investments_if_starting_over_at_30/)
